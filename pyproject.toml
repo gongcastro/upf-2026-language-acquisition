@@ -1,0 +1,10 @@
+[project]
+name = "upf-2026-language-acquisition"
+version = "0.1.0"
+description = "Slides for the Neurocognitive Development classes for the MSc in Neurosciences at UPF on language acquisition."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "quarto>=0.1.0",
+]

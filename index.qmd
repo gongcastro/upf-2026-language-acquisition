@@ -1,0 +1,365 @@
+# Language
+
+## What is language?
+
+No easy, complete, specific way to define language
+
+- *Complete*: captures *all* features of language
+- *Specific*: captures *only* features of language
+
+## What is language?
+
+![](img/speaking.jpeg)
+
+
+## What is language?
+
+{{< video https://www.youtube.com/watch?v=GfbPkXvXFUc >}}
+
+## What is language?
+
+{{< video https://www.youtube.com/watch?v=qGT5JEeOryQ >}}
+
+## What is language?
+
+{{< video https://www.youtube.com/watch?v=FqJf1mB5PjQ start="120" >}}
+
+## What is language?
+
+![](img/trees.jpg)
+
+## What is language?
+
+{{< video https://www.youtube.com/watch?v=2TIK9oXc5Wo >}}
+
+## What is language?
+
+![](img/computers.gif)
+
+
+## What is language
+
+### Language as an object
+
+**Finite system of symbols**
+
+*A language*: Catalan, English, Japanese Sign Language, 
+
+## What is language
+
+### Language as an object
+
+Finite system of **symbols**
+
+*Words* hold arbitrary relationship between form and meaning
+
+## What is language
+
+### Language as an object
+
+**Finite** system of symbols
+
+**Limited number of words** in a language
+
+## What is language
+
+### Language as an object
+
+Finite **system** of symbols
+
+Words^[and other linguistic units] are **combined in systematic ways**, following rules we know as **grammar**
+
+## What is language
+
+### Language as a function
+
+Ability to systematically combine (**grammar**) a finite set of symbols (**words**) provided by a language so that a virtually ilimited number of sentences can be created (**productivity**).
+
+## What is language like?
+
+**Linguistics**: scientific study of language(s)
+
+![https://blogonlinguistics.wordpress.com/2016/03/26/what-is-linguistics/](img/linguistics.png)
+
+## What is language like?
+
+Languages are made of different **linguistic units**.
+
+Linguistic units are **organised hierarchically**.
+
+## What is language like?
+
+0) **Phonemes**: speech sounds that distinguish words with different meaning:
+
+>/'ka.za/ vs. /'ka.sa/
+
+[International Phonology Association (IPA)](https://www.ipachart.com/)
+
+## What is language like?
+
+0) **Phonemes**: speech sounds that distinguish words with different meaning.
+
+phonemes ≠ letters
+
+>casa: 4 letters, 4 phonemes (/kaza/) 
+>coche: 5 letters, 4 phonemes (/kaza/) 
+
+## What is language like?
+
+::: columns
+:::: column
+
+0) **Phonemes**
+1) **Syllables**
+
+Minimal unit of pronunciation.
+
+::::
+::::column
+
+![](img/syllable.png)
+
+::::
+:::
+
+## What is language like?
+
+0) **Phonemes**
+1) **Syllables**
+2) **Words**: minimal unit of meaning. Form-meaning association.
+
+![](img/word-forms.png)
+
+## What is language like?
+
+0) **Phonemes**
+1) **Syllables**
+2) **Words**
+3) **Sentences**: words organised into grammatically coherent structures. Maximal unit of speech production.
+
+## What is language for?
+
+Language provides clear evolutionary advantages
+
+
+## What is language for?
+
+### Language as a tool for communication
+
+The ability for complex thinking provided humans with the ability to learn language [@fedorenko2024language; @hockett1960origin; @kirby2008cumulative].
+
+Claims:
+
+- Complex thinking does not necessarily engage language-related brain areas and vice versa (double dissociation) [@fedorenko2024language]
+
+## What is language for?
+
+### Language as a tool for thinking
+
+The ability to use language provided humans with complex thinking [@chomsky2014minimalist; @goldin2003thought].
+
+Claims:
+
+- (Some forms of) thinking require or are facilitated by language [e.g., @lupyan2007language]
+
+
+## Where does language come from?
+
+Symbolic communication appears between 1,000,000 and 100,000 years ago (*Homo erectus*)^[@barham2021semiotics].
+
+**Why? How?** Two approaches:
+
+* Language "appears" [@berwick2016only; @chomsky2014minimalist]
+* Language develops [@tomasello2003constructing; @christiansen2003language]
+
+## Where does language come from?
+
+Can only be investigated *indirectly*:
+
+- Sparse archaeological evidence
+- Cultural transmission and evolution
+- Evolutionary biology
+
+
+# Language ontogeny
+
+## Is language *learned*?
+
+* Humans need exposure to language to acquire language
+* Not all humans speak the same language, and genes do not explain such differences
+
+## Is language *inherited*?
+
+* Humans acquire their native language(s) in little time, without effort, and without explicit instruction
+* *Stimulus poverty*: language cannot be possible learnt from experience alone (lack of positive and negative evidence)
+* Language is unique to humans, non-human animals do not acquire language even after intensive training
+
+## Current views on language ontogeny
+
+Which aspects are more experience dependent?
+
+Which experience do they depend on?
+
+Which mechanisms underlie language learning?
+
+To what extent do humans share these mechanisms with other species?
+
+# Before-birth
+
+Pre-natal language acquisition
+
+## Acoustics in the womb
+
+{{< video https://www.youtube.com/watch?v=yWBgy55EkIM >}}
+
+## Acoustics in the womb
+
+* Biological tissues filter the acoustic signal
+* Low-pass filter: lower frequencies reach the fetus' ears, higher frequencies don't
+
+## Fetal auditory development
+
+* Auditory system functional by 24 weeks of gestation
+* Fetus' get familiarized with prosodic features of their native language(s)
+    + Intonation: modulation of the frequency of speech sounds across segments
+    + Rhythm: rate at which linguistic units are produce per unit of time
+* Still unfamiliar with segmental information (i.e., different consonants)
+
+# 0-6 months of age
+
+## First encounters with language
+
+Infants show a preference towards speech, compared to non-speech sounds [@voloumanos2007listening].
+
+High Amplitude Sucking (HAS) procedure [@floccia1997high]
+
+{{< video https://www.youtube.com/watch?v=psgv41HVdaE >}}
+
+## First encounters with language
+
+Infants show a preference towards speech, compared to non-speech sounds [@voloumanos2007listening].
+
+![](img/voloumanos.png)
+
+## Language discrimination
+
+Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+
+![](img/ramus.gif)^[@ramus2000correlates]
+
+## Language discrimination
+
+Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+
+**Nazzi et al. (1998)**
+
+* Presented newborns with low-pass filtered sentences produced by natural speakersc (keeping prosodic but not segmental information)
+* Sentences belonged to a stress-timed (English, Dutch) or a mora-timed (Japanese) language
+
+## Language discrimination
+
+Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+
+**Nazzi et al. (1998)**
+
+English (stress-timed) vs. Japanese (mora-timed)
+
+![](img/nazzi-1.png)
+
+## Language discrimination
+
+Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+
+**Nazzi et al. (1998)**
+
+English (stress-timed) vs. Dutch (stress-timed)
+
+![](img/nazzi-2.png)
+
+## Language discrimination
+
+Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+
+**Nazzi et al. (1998)**
+
+English (stress-timed) vs. Dutch (stress-timed)
+
+![](img/nazzi-2.png)
+
+# 6-12 months of age
+
+## Perceptual narrowing
+
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+
+**Werker and Tees (1984)**
+
+Three groups of participants:
+
+* 6 month-old infants
+* English native adults
+* Thompson (*Nlaka'pamuctsin*, native American) native adults
+
+## Perceptual narrowing
+
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+
+**Werker and Tees (1984)**
+
+Three groups of participants, exposed to exemplars of the /k/-/q/ consonant contrast [@mayes1979acoustic]:
+
+* 6 month-old infants
+* English native adults
+* Thompson (*Nlaka'pamuctsin*, native American) native adults
+
+
+## Perceptual narrowing
+
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+
+**Werker and Tees (1984)**
+
+![](img/thompson.png)
+
+## Perceptual narrowing
+
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+
+**Werker and Tees (1984)**
+
+![](img/werker.png)
+
+## Statistical learning
+
+Some reference^[@saffran1996statisticala; @friederici1993phonotactica]
+
+Another reference^[@saffran2003syllables]
+
+## Phonotactics
+
+# 12-24 months of age
+
+## Word acquisition
+
+## Vocabulary spurt
+
+## Lexical development 
+
+# 24-36 months of age
+
+## Word learning heuristics
+
+## Mutual exclusivity
+
+# Bilingualism
+
+## Language discrimination
+
+## Phoneme discrimination
+
+## Word accquisition
+
+## Lexical development
+
+# Computational models of language acquisition
+
