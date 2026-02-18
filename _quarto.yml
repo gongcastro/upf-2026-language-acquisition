@@ -18,7 +18,7 @@ echo: false
 warning: false
 error: false
 
-scrollable: true
+scrollable: false
 email-obfuscation: javascript
 slide-number: true
 progress: true

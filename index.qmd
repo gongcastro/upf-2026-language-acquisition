@@ -229,7 +229,7 @@ Pre-natal language acquisition
 
 ## First encounters with language
 
-Infants show a preference towards speech, compared to non-speech sounds [@voloumanos2007listening].
+Infants show a preference towards speech, compared to non-speech sounds [@voloumanos].
 
 High Amplitude Sucking (HAS) procedure [@floccia1997high]
 
@@ -329,11 +329,57 @@ From 6 to 12 months of age, infants attune their perceptual abilities to the sou
 
 ![](img/werker.png)
 
+## Perceptual narrowing
+
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+
+**Werker and Tees (1984)**
+
+{{< video https://www.youtube.com/watch?v=WvM5bqUsbu8 >}}
+
+
 ## Statistical learning
 
-Some reference^[@saffran1996statisticala; @friederici1993phonotactica]
+Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica]
 
-Another reference^[@saffran2003syllables]
+## Statistical learning
+
+Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica]
+
+[pretty]{style="background:black;color:white"}baby
+
+**Transitional probabilites (TP)**: relative number of co-ocurrences between two syllables
+
+$$
+Y|X = \frac{\text{frequency of }XY}{\text{frequency of }X} 
+$$
+
+## Statistical learning
+
+Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica]
+
+[pretty]{style="background:black;color:white"}baby
+
+$TP_{tty|pre}$ > $TP_{ba|tty}
+
+## Statistical learning
+
+Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica]
+
+[pretty]{style="background:black;color:white"}baby
+
+## Statistical learning
+
+[bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[pa<br>doti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[gola<br>bu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bi<br>daku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[padoti<br>]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[<br>bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[bidaku]{style="background:#e8e8e8;color:black"}[padoti]{style="background:black;color:white"}[golabu]{style="background:#e8e8e8;color:black"}[tupiro]{style="background:#black;color:white"}
+
+
+## Statistical learning
+
+Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica; @aslin2017statistical]
+
+![](img/stat-learning.png)
+
+
 
 ## Phonotactics
 
