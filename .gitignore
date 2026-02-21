@@ -17,5 +17,6 @@ img/*.png
 img/*.jpg
 img/*.jpeg
 img/*.mp4
+img/*.gif
 .quarto_ipynb
 sounds/
