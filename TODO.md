@@ -1,0 +1,6 @@
+- [ ] Download videos
+- [ ] Fix CSS
+- [ ] Add logos
+- [ ] Find better images
+- [ ] Proofreading
+- [ ] Fix references

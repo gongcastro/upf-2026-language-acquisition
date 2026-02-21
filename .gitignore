@@ -13,6 +13,9 @@ wheels/
 **/*.quarto_ipynb
 
 index_files
-img/
+img/*.png
+img/*.jpg
+img/*.jpeg
+img/*.mp4
 .quarto_ipynb
 sounds/

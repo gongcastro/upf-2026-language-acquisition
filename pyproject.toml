@@ -7,5 +7,6 @@ requires-python = ">=3.13"
 dependencies = [
     "jupyter>=1.1.1",
     "mbrola==0.2.0",
+    "pytubefix>=10.3.8",
     "quarto>=0.1.0",
 ]

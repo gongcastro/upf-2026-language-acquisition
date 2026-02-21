@@ -1,178 +1,285 @@
-# Language
+# Language [acquisition]{style="color: grey;"}
 
 ## What is language?
+
+<br>
+<br>
 
 No easy, complete, specific way to define language
 
-- *Complete*: captures *all* features of language
-- *Specific*: captures *only* features of language
+- **Complete**: captures *all* features of language
+- **Specific**: captures *only* features of language
 
 ## What is language?
 
-![](img/speaking.jpeg)
-
-
-## What is language?
-
-{{< video https://www.youtube.com/watch?v=GfbPkXvXFUc >}}
+{{< video img/koko.mp4 title="Koko" start="120" width="800" >}}
 
 ## What is language?
 
-{{< video https://www.youtube.com/watch?v=qGT5JEeOryQ >}}
+{{< video img/alex.mp4 title="Alex" width="800" >}}
 
 ## What is language?
 
-{{< video https://www.youtube.com/watch?v=FqJf1mB5PjQ start="120" >}}
-
-## What is language?
-
-![](img/trees.jpg)
-
-## What is language?
-
-{{< video https://www.youtube.com/watch?v=2TIK9oXc5Wo >}}
-
-## What is language?
-
-![](img/computers.gif)
-
-
-## What is language
+<br>
+<br>
 
 ### Language as an object
 
-**Finite system of symbols**
+Finite system of symbols (words) that can be combined using rules to make a virtually infinite number of distinct sentences.
 
-*A language*: Catalan, English, Japanese Sign Language, 
+## What is language?
 
-## What is language
+{{< video img/protactile.mp4 title="Protactile language" width="800" >}}
+
+## What is language?
+
+{{< video img/silbo-gomero.mp4 title="Silbo gomero" width="800" >}}
+
+## What is language?
+
+{{< video img/kus-dili.mp4 title="Kuş dili" width="800" >}}
+
+## What is language?
+
+<br>
+<br>
 
 ### Language as an object
 
-Finite system of **symbols**
+Finite system of [symbols]{style="background: black; color: white"} (words) that can be combined using rules to make a virtually infinite number of distinct sentences.
 
-*Words* hold arbitrary relationship between form and meaning
+<br>
 
-## What is language
+*Words* (symbols, in general) hold arbitrary relationship between form and meaning
+
+## What is language?
+
+<br>
+<br>
 
 ### Language as an object
 
-**Finite** system of symbols
+[Finite]{style="background: black; color: white"} system of symbols (words) that can be combined using rules to make a virtually infinite number of distinct sentences.
+
+<br>
 
 **Limited number of words** in a language
 
-## What is language
+## What is language?
+
+<br>
+<br>
 
 ### Language as an object
 
-Finite **system** of symbols
 
-Words^[and other linguistic units] are **combined in systematic ways**, following rules we know as **grammar**
+Finite system of symbols (words) that can be combined using [rules]{style="background: black; color: white"} to make a virtually infinite number of distinct sentences.
 
-## What is language
+<br>
+
+Words (and other linguistic units) are **combined in systematic ways**, following rules we know as **grammar**
+
+## What is language?
+
+<br>
+<br>
+
+### Language as an object
+
+7,745 identified languages ([Glottolog](https://glottolog.org/))
+
+| AES status     | # of languages | % of languages |
+|----------------|----------------|----------------|
+| not endangered | 2643           | 34.13%         |
+| threatened     | 1595           | 20.59%         |
+| shifting       | 1805           | 23.31%         |
+| moribund       | 422            | 5.45%          |
+| nearly extinct | 299            | 3.86%          |
+| extinct        | 981            | 12.67%         |
+: Agglomerated Endangerment Status^[@hammarstrom_glottologglottolog_2025]
+
+## What is language?
+
+<br>
+<br>
 
 ### Language as a function
 
 Ability to systematically combine (**grammar**) a finite set of symbols (**words**) provided by a language so that a virtually ilimited number of sentences can be created (**productivity**).
 
-## What is language like?
+## What is language?
 
-**Linguistics**: scientific study of language(s)
+<br>
+<br>
 
-![https://blogonlinguistics.wordpress.com/2016/03/26/what-is-linguistics/](img/linguistics.png)
+### Language as a function
 
-## What is language like?
+Ability to systematically combine (**grammar**) a finite set of symbols (**words**) provided by a language so that a virtually ilimited number of sentences can be created (**productivity**).
 
-Languages are made of different **linguistic units**.
+<br>
 
-Linguistic units are **organised hierarchically**.
-
-## What is language like?
-
-0) **Phonemes**: speech sounds that distinguish words with different meaning:
-
->/'ka.za/ vs. /'ka.sa/
-
-[International Phonology Association (IPA)](https://www.ipachart.com/)
+* Can Koko combine signs **productively** to communicate complex ideas?
+* Is Alex's communication **symbolic**?
 
 ## What is language like?
 
-0) **Phonemes**: speech sounds that distinguish words with different meaning.
+::: {.columns}
+::: {.column}
+<br>
+<br>
 
-phonemes ≠ letters
+Linguistics
+: Scientific study of language(s)
 
->casa: 4 letters, 4 phonemes (/kaza/) 
->coche: 5 letters, 4 phonemes (/kaza/) 
+Languages are made of different **linguistic units**
 
-## What is language like?
-
-::: columns
-:::: column
-
-0) **Phonemes**
-1) **Syllables**
-
-Minimal unit of pronunciation.
-
-::::
-::::column
-
-![](img/syllable.png)
-
-::::
+Linguistic units are **organised hierarchically**
+:::
+::: {.column}
+![](img/linguistics.png)^[https://blogonlinguistics.wordpress.com/2016/03/26/what-is-linguistics/]
+:::
 :::
 
 ## What is language like?
 
-0) **Phonemes**
-1) **Syllables**
-2) **Words**: minimal unit of meaning. Form-meaning association.
+<br>
+<br>
 
-![](img/word-forms.png)
+![](img/meyer.jpg)^[@meyer_neural_2018]
 
 ## What is language like?
 
-0) **Phonemes**
-1) **Syllables**
-2) **Words**
-3) **Sentences**: words organised into grammatically coherent structures. Maximal unit of speech production.
+::: {.columns}
+::: {.column}
+<br>
+<br>
+
+Phonemes
+: Speech sounds that distinguish words with different meaning:
+
+[International Phonology Association (IPA)](https://www.ipachart.com/)
+:::
+::: {.column}
+/kaza/ vs. /kasa/
+:::
+:::
+
+## What is language like?
+
+<br>
+<br>
+
+::: {.columns}
+::: {.column}
+Phonemes
+: Speech sounds that distinguish words with different meaning:
+:::
+::: {.column}
+::: {.callout-caution title="Phonemes ≠ Letters"}
+casa [Catalan for *house*]
+: 4 letters, 4 phonemes: /k a z a/
+
+cotxe [Catalan for *car*]
+: 5 letters, 4 phonemes: /k o t͡ʃ ə/ 
+:::
+:::
+:::
+
+## What is language like?
+
+::: {.columns}
+::: {.column}
+<br>
+<br>
+
+Syllables
+: Minimal unit of pronunciation.
+:::
+::: {.column}
+![](img/syllable.png)
+:::
+:::
+
+## What is language like?
+
+::: {.columns}
+::: {.column}
+<br>
+<br>
+
+Words
+: Minimal unit of meaning. Form-meaning association.
+:::
+::: {.column}
+:::
+:::
+
+![](img/word-forms.png)
+
+
+## What is language like?
+
+::: {.columns}
+::: {.column}
+<br>
+<br>
+
+Sentence
+: Words organised into grammatically coherent structures. Maximal unit of speech production.
+:::
+::: {.column}
+:::
+:::
 
 ## What is language for?
+
+<br>
+<br>
 
 Language provides clear evolutionary advantages
 
-
 ## What is language for?
+
+<br>
+<br>
 
 ### Language as a tool for communication
 
-The ability for complex thinking provided humans with the ability to learn language [@fedorenko2024language; @hockett1960origin; @kirby2008cumulative].
+The ability for complex thinking provided humans with the ability to learn language^[@fedorenko_language_2024; @hockett1960origin; @kirby2008cumulative].
 
 Claims:
 
-- Complex thinking does not necessarily engage language-related brain areas and vice versa (double dissociation) [@fedorenko2024language]
+- Complex thinking does not necessarily engage language-related brain areas and vice versa (double dissociation)^[@fedorenko_language_2024]
 
 ## What is language for?
 
+<br>
+<br>
+
 ### Language as a tool for thinking
 
-The ability to use language provided humans with complex thinking [@chomsky2014minimalist; @goldin2003thought].
+The ability to use language provided humans with complex thinking^[@chomsky2014minimalist; @goldin2003thought].
 
 Claims:
 
-- (Some forms of) thinking require or are facilitated by language [e.g., @lupyan2007language]
-
+- (Some forms of) thinking require or are facilitated by language [e.g., @lupyan_language_2007]
 
 ## Where does language come from?
 
-Symbolic communication appears between 1,000,000 and 100,000 years ago (*Homo erectus*)^[@barham2021semiotics].
+<br>
+<br>
+
+Symbolic communication appears between 1,000,000 and 100,000 years ago (*Homo erectus*)^[@barham_semiotics_2021].
 
 **Why? How?** Two approaches:
 
-* Language "appears" [@berwick2016only; @chomsky2014minimalist]
-* Language develops [@tomasello2003constructing; @christiansen2003language]
+* Language "appears"^[@berwick2016only; @chomsky2014minimalist]
+* Language develops^[@tomasello2003constructing; @christiansen2003language]
 
 ## Where does language come from?
+
+<br>
+<br>
 
 Can only be investigated *indirectly*:
 
@@ -180,21 +287,30 @@ Can only be investigated *indirectly*:
 - Cultural transmission and evolution
 - Evolutionary biology
 
+# [Language]{style="color: grey;"} acquisition
 
-# Language ontogeny
 
 ## Is language *learned*?
+
+<br>
+<br>
 
 * Humans need exposure to language to acquire language
 * Not all humans speak the same language, and genes do not explain such differences
 
 ## Is language *inherited*?
 
+<br>
+<br>
+
 * Humans acquire their native language(s) in little time, without effort, and without explicit instruction
 * *Stimulus poverty*: language cannot be possible learnt from experience alone (lack of positive and negative evidence)
 * Language is unique to humans, non-human animals do not acquire language even after intensive training
 
 ## Current views on language ontogeny
+
+<br>
+<br>
 
 Which aspects are more experience dependent?
 
@@ -210,46 +326,55 @@ Pre-natal language acquisition
 
 ## Acoustics in the womb
 
-{{< video https://www.youtube.com/watch?v=yWBgy55EkIM >}}
+<br>
+<br>
+
+{{< video img/womb.mp4 title="Acoustics in the womb" width="800" >}}
 
 ## Acoustics in the womb
 
+<br>
+<br>
+
 * Biological tissues filter the acoustic signal
-* Low-pass filter: lower frequencies reach the fetus' ears, higher frequencies don't
+* Low-pass filter: lower frequencies reach the fetus' ears, higher frequencies do not
+
 
 ## Fetal auditory development
 
-* Auditory system functional by 24 weeks of gestation
+* Auditory system functional by **24 weeks of gestation**
 * Fetus' get familiarized with prosodic features of their native language(s)
-    + Intonation: modulation of the frequency of speech sounds across segments
-    + Rhythm: rate at which linguistic units are produce per unit of time
-* Still unfamiliar with segmental information (i.e., different consonants)
+    + **Intonation**: modulation of the frequency of speech sounds across segments
+    + **Rhythm**: rate at which linguistic units are produce per unit of time
+* Still **unfamiliar with segmental information** (i.e., different consonants)
 
 # 0-6 months of age
 
 ## First encounters with language
 
-Infants show a preference towards speech, compared to non-speech sounds [@voloumanos].
+Infants show a preference towards speech, compared to non-speech sounds^[@vouloumanos_listening_2007].
 
-High Amplitude Sucking (HAS) procedure [@floccia1997high]
-
-{{< video https://www.youtube.com/watch?v=psgv41HVdaE >}}
+High Amplitude Sucking (HAS) procedure^[@floccia_high-amplitude_1997]
 
 ## First encounters with language
 
-Infants show a preference towards speech, compared to non-speech sounds [@voloumanos2007listening].
+{{< video img/sucking.mp4 title="High Amplitude Sucking (HAS) procedure" width="800" >}}
+
+## First encounters with language
+
+Infants show a preference towards speech, compared to non-speech sounds^[@vouloumanos_listening_2007].
 
 ![](img/voloumanos.png)
 
 ## Language discrimination
 
-Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
 
-![](img/ramus.gif)^[@ramus2000correlates]
+![](img/ramus.gif)^[@ramus_correlates_1999]
 
 ## Language discrimination
 
-Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
 
 **Nazzi et al. (1998)**
 
@@ -258,7 +383,7 @@ Neonates can discriminate between languages from different rhythm classes [@mehl
 
 ## Language discrimination
 
-Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
 
 **Nazzi et al. (1998)**
 
@@ -268,7 +393,7 @@ English (stress-timed) vs. Japanese (mora-timed)
 
 ## Language discrimination
 
-Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
 
 **Nazzi et al. (1998)**
 
@@ -278,7 +403,7 @@ English (stress-timed) vs. Dutch (stress-timed)
 
 ## Language discrimination
 
-Neonates can discriminate between languages from different rhythm classes [@mehler1988precursor; @nazzi1998language].
+Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
 
 **Nazzi et al. (1998)**
 
@@ -290,7 +415,7 @@ English (stress-timed) vs. Dutch (stress-timed)
 
 ## Perceptual narrowing
 
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
 
 **Werker and Tees (1984)**
 
@@ -302,11 +427,11 @@ Three groups of participants:
 
 ## Perceptual narrowing
 
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
 
 **Werker and Tees (1984)**
 
-Three groups of participants, exposed to exemplars of the /k/-/q/ consonant contrast [@mayes1979acoustic]:
+Three groups of participants, exposed to exemplars of the /k/-/q/ consonant contrast^[@mayes1979acoustic]:
 
 * 6 month-old infants
 * English native adults
@@ -315,7 +440,7 @@ Three groups of participants, exposed to exemplars of the /k/-/q/ consonant cont
 
 ## Perceptual narrowing
 
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
 
 **Werker and Tees (1984)**
 
@@ -323,7 +448,7 @@ From 6 to 12 months of age, infants attune their perceptual abilities to the sou
 
 ## Perceptual narrowing
 
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
 
 **Werker and Tees (1984)**
 
@@ -331,20 +456,20 @@ From 6 to 12 months of age, infants attune their perceptual abilities to the sou
 
 ## Perceptual narrowing
 
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker1984crosslanguage].
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
 
 **Werker and Tees (1984)**
 
-{{< video https://www.youtube.com/watch?v=WvM5bqUsbu8 >}}
+{{< video img/hpp.mp4 title="Headturn Preference Procedure (HPP)" width="800" >}}
 
 
 ## Statistical learning
 
-Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica]
+Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran_statistical_1996]
 
 ## Statistical learning
 
-Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica]
+Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran_statistical_1996]
 
 [pretty]{style="background:black;color:white"}baby
 
@@ -356,32 +481,246 @@ $$
 
 ## Statistical learning
 
-Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica]
+Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran_statistical_1996]
 
 [pretty]{style="background:black;color:white"}baby
 
-$TP_{tty|pre}$ > $TP_{ba|tty}
+$TP_{tty|pre} > TP_{ba|tty}$
 
 ## Statistical learning
 
-Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica]
+Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran_statistical_1996]
 
 [pretty]{style="background:black;color:white"}baby
 
 ## Statistical learning
 
-[bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[pa<br>doti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[gola<br>bu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bi<br>daku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[padoti<br>]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[tupiro]{style="background:#e8e8e8;color:black"}[<br>bidaku]{style="background:black;color:white"}[padoti]{style="background:#e8e8e8;color:black"}[golabu]{style="background:black;color:white"}[bidaku]{style="background:#e8e8e8;color:black"}[padoti]{style="background:black;color:white"}[golabu]{style="background:#e8e8e8;color:black"}[tupiro]{style="background:#black;color:white"}
+<br>
+<br>
+
+::: mono
+...tupirogolabubidakupadotigolabutupiropadotibidaku...
+:::
+
+## Statistical learning
+
+<br>
+<br>
+
+Is [[golabu]{style="background:#000000;color:white"}]{.mono-inline} a word?
 
 
 ## Statistical learning
 
-Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran1996statisticala; @friederici1993phonotactica; @aslin2017statistical]
+<br>
+<br>
 
-![](img/stat-learning.png)
+Is [[golabu]{style="background:#000000;color:white"}]{.mono-inline} a word?
 
+<br>
+
+Is [[labubi]{style="background:#e8e8e8;color:black"}]{.mono-inline} a word?
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupiro[golabu]{style="background:black;color:white"}bidakupadotigolabutupiropadotibidaku...
+:::
+
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupirogo[labubi]{style="background:#e8e8e8;color:black"}dakupadotigolabutupiropadotibidaku...
+:::
+
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupiro-golabu-bidaku-padoti-golabu-tupiro-padoti-bidaku...
+:::
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupiro-golabu-bidaku-padoti-golabu-tupiro-padoti-bidaku...
+:::
+
+::: mono
+...tupi-rogola-bubida-kupado-tigola-butupi-ropado-tibida-ku...
+:::
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupiro-golabu-bidaku-padoti-golabu-tupiro-padoti-bidaku...
+:::
+
+::: mono
+...tupi-rogola-bubida-kupado-tigola-butupi-ropado-tibida-ku...
+:::
+
+::: mono
+...tu-pirogo-labubi-dakupa-dotigo-labutu-piropa-dotibi-daku...
+:::
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupiro[gola]{style="background:black;color:white"}bubidakupadoti[gola]{style="background:black;color:white"}butupiropadotibidaku...
+:::
+
+$$
+p(\text{la|go}) = 1.0
+$$
+
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupirogo[labu]{style="background:black;color:white"}bidakupadotigo[labu]{style="background:black;color:white"}tupiropadotibidaku...
+:::
+
+$$
+p(\text{bu|la}) = 1.0
+$$
+
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupirogola[bubi]{style="background:#e8e8e8;color:black"}dakupadotigolabutupiropadotibidaku...
+:::
+
+$$
+p(\text{bi|bu}) = 0.5
+$$
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupirogolabu[bida]{style="background:black;color:white"}kupadotigolabutupiropadoti[bida]{style="background:black;color:white"}ku...
+:::
+
+$$
+p(\text{da|bi}) = 1.0
+$$
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupirogolabubi[daku]{style="background:black;color:white"}padotigolabutupiropadotibi[daku]{style="background:black;color:white"}...
+:::
+
+$$
+p(\text{ku|da}) = 1.0
+$$
+
+
+## Statistical learning
+
+<br>
+<br>
+
+::: mono
+...tupirogolabubida[kupa]{style="background:#e8e8e8;color:black"}dotigolabutupiropadotibidaku...
+:::
+
+$$
+p(\text{pa|ku}) = 0.5
+$$
 
 
 ## Phonotactics
+
+Rules governing the possible phoneme sequences in a language.
+
+* Can /b/ and /l/ go together in Catalan?
+    + *blanca* [Catalan for *white*]: /blaŋkə/
+
+## Phonotactics
+
+Rules governing the possible **phoneme sequences** in a (particular) language.
+
+Can /b/ and /l/ go together in...
+
+* **Catalan**: *blanca* [Catalan for *white*] /blaŋkə/
+* **English**: *blue*: /bluː/
+
+## Phonotactics
+
+Rules governing the possible **phoneme sequences** in a (particular) language.
+
+Can /s/ and /s/ go together in...
+
+* **Catalan**: ??
+* **English**: *slow* /sləʊ/
+
+## Phonotactics
+
+From 9 months of age, infants show sensitivity to phonotactics in their native language^[@friederici_phonotactic_1993].
+
+**Friederici and Wessels (1995)**
+
+4.5, 6 and 9 month-old Dutch native infants
+
+Three conditions, based on their phonotacticality:
+
+- Legal syllables (e.g., *bref*, *murt*)
+- Illegal onset (e.g., *rtum*)
+- Illegal coda (e.g., *febr*)
+
+## Phonotactics
+
+From 9 months of age, infants show sensitivity to phonotactics in their native language^[@friederici_phonotactic_1993].
+
+Headturn Preference Procedure (HPP):
+
+::: {.columns}
+::: {.column}
+![https://www.uni-potsdam.de/en/babylab/informations-for-parents/methods/hpp](img/hpp.jpg)
+:::
+::: {.column}
+![@brooks_language_2012](img/hpp-2.jpg)
+:::
+:::
+
+## Phonotactics
+
+From 9 months of age, infants show sensitivity to phonotactics in their native language^[@friederici_phonotactic_1993].
+
+9 month-old infants (but not younger infants) looked longer to trials in which legal syllables were presented, compared to illegal syllables.
 
 # 12-24 months of age
 

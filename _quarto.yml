@@ -1,5 +1,9 @@
+project:
+  render:
+    - index.qmd
+
 title: Language acquisition
-subtitle: Neurocognitive development (Màster en Neurociències)
+subtitle: Neurocognitive development<br>*Màster en Neurociències, Universitat de Barcelona*
 date: 2026-02-24
 author: 
   - name: Gonzalo García-Castro
@@ -7,21 +11,21 @@ author:
     email: gonzalo.garcia@sjd.es
 institute: Institut de Recerca Sant Joan de Déu (IRSJD)
 
-bibliography: references.bib
+bibliography:
+  - references.bib
+  - upf-2026-neurocogdev.bib
 csl: apa.csl
 
 format: revealjs
-#brand: _brand.yml
 css: style.css
 
 echo: false
 warning: false
 error: false
+freeze: false
 
-scrollable: false
+scrollable: true
 email-obfuscation: javascript
 slide-number: true
 progress: true
 reference-location: block
-
-

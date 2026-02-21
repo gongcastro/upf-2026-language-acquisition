@@ -1,4 +1,85 @@
-.citation, aside, .aside-footnotes {
-    font-size: x-small !important; 
+.title {
+    font-size: 60px !important;
+}
+
+.subtitle {
+    font-size: 40px !important;
+}
+
+h2 {
+    font-size: 40px !important;
+}
+
+h3 {
+    font-size: 35px !important;
+}
+
+p, ul, li, dd, dt, strong {
+    font-size: 30px !important;
+}
+
+caption {
+    font-size: 25px !important;
+}
+
+td, th, aside, figcaption, p.aside-footnotes {
+    font-size: 20px !important;
+    font-family: monospace;
+}
+
+figcaption {
+    justify-content: right !important;
+    align-items: right !important;
+    display: flex !important;
+}
+
+.citation, aside, p.aside-footnotes, a.aside-footnotes {
+    font-size: 20px !important; 
     bottom: 0 !important;
+}
+
+.date {
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.mono, .mono-inline {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.mono {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#title-slide {
+
+    .quarto-title-author-name, .quarto-title-affiliation {
+        font-size: 30px;
+    }
+
+    h1.title {
+        font-size: 30px;
+    }
+
+    p.subtitle {
+        font-size: 22px !important;
+        color: grey;
+
+    }
+
+    .quarto-title-author-email {
+        font-size: 20px;
+        font-family: monospace;
+        color: blue;
+    }
+    p.date {
+        font-size: 15px !important;
+        font-family: monospace !important;
+    }
+    
 }
