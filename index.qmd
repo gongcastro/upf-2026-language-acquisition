@@ -1,4 +1,34 @@
+```{python}
+# | label: setup
+from pathlib import Path
+
+from IPython import display
+```
+
 # Language [acquisition]{style="color: grey;"}
+
+---
+
+<br>
+<br>
+<br>
+<br>
+
+::: center
+What is language?
+:::
+
+::: center
+What is language like?
+:::
+
+::: center
+What is language for?
+:::
+
+::: center
+Where does language come from?
+:::
 
 ## What is language?
 
@@ -96,7 +126,7 @@ Words (and other linguistic units) are **combined in systematic ways**, followin
 | moribund       | 422            | 5.45%          |
 | nearly extinct | 299            | 3.86%          |
 | extinct        | 981            | 12.67%         |
-: Agglomerated Endangerment Status^[@hammarstrom_glottologglottolog_2025]
+: Agglomerated Endangerment Status [@hammarstrom_glottologglottolog_2025]
 
 ## What is language?
 
@@ -136,7 +166,7 @@ Languages are made of different **linguistic units**
 Linguistic units are **organised hierarchically**
 :::
 ::: {.column}
-![](img/linguistics.png)^[https://blogonlinguistics.wordpress.com/2016/03/26/what-is-linguistics/]
+![](img/linguistics.png) [https://blogonlinguistics.wordpress.com/2016/03/26/what-is-linguistics/]
 :::
 :::
 
@@ -145,7 +175,7 @@ Linguistic units are **organised hierarchically**
 <br>
 <br>
 
-![](img/meyer.jpg)^[@meyer_neural_2018]
+![](img/meyer.jpg) [@meyer_neural_2018]
 
 ## What is language like?
 
@@ -209,13 +239,34 @@ Syllables
 
 Words
 : Minimal unit of meaning. Form-meaning association.
+
+<br>
+
+Mental lexicon
+: "Mental dictionary" that contains information about the form, meaning, and grammatical function of every word know by a person.
+
 :::
 ::: {.column}
-:::
-:::
-
 ![](img/word-forms.png)
+:::
+:::
 
+## What is language like?
+
+<br>
+<br>
+
+|Person       | Words   | Lemmas | Base words |
+|-------------|---------|--------|------------|
+| *20-year-old* |         |        |            | 	
+| Low end     | 84,000  | 27,100 | 6,100      |
+| Median      |         | 42,000 | 11,100     |
+| High end    | 292,000 | 51,700 | 14,900     |
+| *60-year-old* |       |      |          |		
+| Low end     | 157,000 | 35,100 | 9,000      |
+| Median	  |         | 48,200 | 13,400     |
+| High end    | 543,000 | 56,400 | 16,700     |
+: Adapted from @brysbaert_how_2016.
 
 ## What is language like?
 
@@ -228,6 +279,7 @@ Sentence
 : Words organised into grammatically coherent structures. Maximal unit of speech production.
 :::
 ::: {.column}
+![](img/syntax.png)
 :::
 :::
 
@@ -243,43 +295,53 @@ Language provides clear evolutionary advantages
 <br>
 <br>
 
-### Language as a tool for communication
-
-The ability for complex thinking provided humans with the ability to learn language^[@fedorenko_language_2024; @hockett1960origin; @kirby2008cumulative].
-
-Claims:
-
-- Complex thinking does not necessarily engage language-related brain areas and vice versa (double dissociation)^[@fedorenko_language_2024]
-
-## What is language for?
+::: {.columns}
+::: {.column}
+**Language as a tool for *communication***
 
 <br>
+
+The ability for complex thinking provided humans with the ability to learn language [@fedorenko_language_2024; @hockett1960origin; @kirby2008cumulative].
+
+Complex thinking does not necessarily engage language-related brain areas and vice versa (double dissociation) [@fedorenko_language_2024]
+
+:::
+::: {.column}
+**Language as a tool for *thinking***
+
 <br>
 
-### Language as a tool for thinking
+The ability to use language provided humans with complex thinking [@chomsky2014minimalist; @goldin2003thought].
 
-The ability to use language provided humans with complex thinking^[@chomsky2014minimalist; @goldin2003thought].
+(Some forms of) thinking require or are facilitated by language [e.g., @lupyan_language_2007]
+:::
+:::
 
-Claims:
-
-- (Some forms of) thinking require or are facilitated by language [e.g., @lupyan_language_2007]
 
 ## Where does language come from?
 
 <br>
 <br>
 
-Symbolic communication appears between 1,000,000 and 100,000 years ago (*Homo erectus*)^[@barham_semiotics_2021].
+Symbolic communication appears between 1,000,000 and 100,000 years ago (*Homo erectus*) [@barham_semiotics_2021].
+
+<br>
+
+::: {.columns}
+::: {.column}
 
 **Why? How?** Two approaches:
 
-* Language "appears"^[@berwick2016only; @chomsky2014minimalist]
-* Language develops^[@tomasello2003constructing; @christiansen2003language]
+* Language "appears"
 
-## Where does language come from?
+[@berwick2016only; @chomsky2014minimalist]
 
-<br>
-<br>
+* Language develops
+
+[@tomasello2003constructing; @christiansen2003language]
+
+:::
+::: {.column}
 
 Can only be investigated *indirectly*:
 
@@ -287,127 +349,221 @@ Can only be investigated *indirectly*:
 - Cultural transmission and evolution
 - Evolutionary biology
 
+:::
+:::
+
 # [Language]{style="color: grey;"} acquisition
 
 
-## Is language *learned*?
+## Is language *learned*? 
 
 <br>
 <br>
 
-* Humans need exposure to language to acquire language
-* Not all humans speak the same language, and genes do not explain such differences
+::: {.incremental}
+* Humans need **exposure** to language to acquire language
+* Not all humans speak the same language, and genes do not explain cross-linguistic differences
+:::
 
 ## Is language *inherited*?
 
 <br>
 <br>
 
-* Humans acquire their native language(s) in little time, without effort, and without explicit instruction
-* *Stimulus poverty*: language cannot be possible learnt from experience alone (lack of positive and negative evidence)
-* Language is unique to humans, non-human animals do not acquire language even after intensive training
+::: {.incremental}
+* Language acquisition is **efficient**: Humans acquire their native language(s) in little time, without effort, and without explicit instruction
+* **Stimulus poverty**: language cannot be possible learned from experience alone (lack of positive and negative evidence)
+* Language is **unique to humans**, non-human animals do not acquire language even after intensive training
+:::
 
 ## Current views on language ontogeny
 
 <br>
 <br>
 
-Which aspects are more experience dependent?
+Which aspects are more **experience dependent**?
 
-Which experience do they depend on?
+**Which experience** do they depend on?
 
-Which mechanisms underlie language learning?
+Which **mechanisms** underlie language learning?
 
-To what extent do humans share these mechanisms with other species?
+To what extent do humans share these mechanisms with **other species**?
 
 # Before-birth
 
-Pre-natal language acquisition
-
-## Acoustics in the womb
-
-<br>
-<br>
-
-{{< video img/womb.mp4 title="Acoustics in the womb" width="800" >}}
-
-## Acoustics in the womb
-
-<br>
-<br>
-
-* Biological tissues filter the acoustic signal
-* Low-pass filter: lower frequencies reach the fetus' ears, higher frequencies do not
+Pre-natal language exposure
 
 
 ## Fetal auditory development
 
-* Auditory system functional by **24 weeks of gestation**
+::: {.columns}
+::: {.column}
+<br>
+<br>
+
+* The fetal auditory system is **functional from 20 weeks of gestation**
+* **Biological tissues** (skin, muscle, amniotic liquid) filter the acoustic signal
+* **Low-pass filter**: frequencies lower than 550 Hz reach the fetus' ears, higher frequencies do not
+:::
+::: {.column}
+![@hepper_development_1994](img/fetal-hearing.png){fig-align="right"}
+:::
+:::
+
+
+## Fetal language exposure
+
+### Acoustics in the womb
+
+::: center
+{{< video img/womb.mp4 title="Acoustics in the womb" width="800" >}}
+:::
+
+## Fetal language exposure
+
+### Acoustics in the womb
+
+<br>
+<br>
+
+::: {.columns}
+::: {.column}
+
+* The fetal auditory system is **functional from 20 weeks of gestation**
+* **Biological tissues** (sking, muscle, amniotic liquid) filter the acoustic signal
+* **Low-pass filter**: frequencies lower than 550 Hz reach the fetus' ears, higher frequencies do not
+:::
+::: {.column}
+
+::: center
+Low-pass filtered signal
+:::
+
+```{python}
+display.Audio(Path("sounds/pretty-baby_low-pass.wav"))
+```
+
+::: center
+Original signal
+:::
+
+```{python}
+display.Audio(Path("sounds/pretty-baby.wav"))
+```
+
+
+::: center
+Low-pass filtered signal
+:::
+
+```{python}
+display.Audio(Path("sounds/pretty-baby_high-pass.wav"))
+```
+
+:::
+:::
+
+## Fetal language exposure
+
 * Fetus' get familiarized with prosodic features of their native language(s)
     + **Intonation**: modulation of the frequency of speech sounds across segments
     + **Rhythm**: rate at which linguistic units are produce per unit of time
-* Still **unfamiliar with segmental information** (i.e., different consonants)
+* Still quite **unfamiliar with segmental information** (i.e., different consonants)
+
+## Fetal language exposure
+
+::: box
+**Auditory learning** is already present at 33 gestational weeks.
+:::
+
+**DeCasper et al. (1994)**
+
+::: incremental
+* 28 pregnant women in their 33 gestational week recited a poem 3 consecutive times per day for 4 weeks.
+
+* At test, fetuses auditory stimulated with [familiar poem]{style="background: black;color: white"} or an [unfamiliar poem]{style="background: grey;color: white"} (control).
+
+* Beat-to-beat intervals of the fetal heart were recorded (doppler cardiotocograph).
+
+* The [familiar poem]{style="background: black;color: white"} decreased heartbeat rate, the [unfamiliar poem]{style="background: grey;color: white"} did not.
+:::
 
 # 0-6 months of age
 
 ## First encounters with language
 
-Infants show a preference towards speech, compared to non-speech sounds^[@vouloumanos_listening_2007].
+::: box
+Newborns prefer speech over non-speech sounds.
+:::
 
-High Amplitude Sucking (HAS) procedure^[@floccia_high-amplitude_1997]
+**@vouloumanos_listening_2007**
 
 ## First encounters with language
+
+**Vouloumanos, Christophe, and, Bertoncini (1997)**
+
+High Amplitude Sucking (HAS) procedure [@floccia_high-amplitude_1997]
+
+* Neonates are trained to increase the sucking rate in order to continue listening to some auditory stimulus.
+* Sucking rate is compared for two or more types of stimuli.
+* If neonates prefer some type of stimuli over the others, sucking rate should be higher for that type of stimulus.
+
+## First encounters with language
+
+**Vouloumanos, Christophe, and, Bertoncini (1997)**
+
+High Amplitude Sucking (HAS) procedure [@floccia_high-amplitude_1997]
 
 {{< video img/sucking.mp4 title="High Amplitude Sucking (HAS) procedure" width="800" >}}
 
 ## First encounters with language
 
-Infants show a preference towards speech, compared to non-speech sounds^[@vouloumanos_listening_2007].
-
 ![](img/voloumanos.png)
 
 ## Language discrimination
 
-Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
-
-![](img/ramus.gif)^[@ramus_correlates_1999]
-
-## Language discrimination
-
-Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
-
-**Nazzi et al. (1998)**
-
-* Presented newborns with low-pass filtered sentences produced by natural speakersc (keeping prosodic but not segmental information)
-* Sentences belonged to a stress-timed (English, Dutch) or a mora-timed (Japanese) language
+::: box
+Neonates can discriminate between languages from different rhythm classes [@mehler_precursor_1988; @nazzi_language_1998].
+:::
 
 ## Language discrimination
 
-Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
+<br>
+<br>
+
+::: {.columns}
+::: {.column width="60%"}
+| Rhythm group     | Examples         |               |
+|------------------|------------------|---------------|
+| [*Syllable-timed*]{style="background:blue;color:white;"} | Catalan, Spanish | H O N - D A   |
+| [*Stress-timed*]{style="background:red;color:white;"}   | English, Dutch   | H O N ~D~ ~A~ |          
+| [*Mora-timed*]{style="background:green;color:white;"}     | Japanese, Tamil  | H O - N - D A |
+:::
+::: {.column width="40%"}
+![](img/ramus.gif) [@ramus_correlates_1999]
+:::
+:::           
+
+## Language discrimination
 
 **Nazzi et al. (1998)**
 
-English (stress-timed) vs. Japanese (mora-timed)
+* Presented newborns with low-pass filtered sentences produced by natural speakers (keeping prosodic but not segmental information)
+* Sentences belonged to a [stress-timed]{style="background:red;color:white;"} language(English, Dutch) or a [mora-timed]{style="background:green;color:white;"} language (Japanese)
+
+## Language discrimination
+
+**Nazzi et al. (1998)**
+
+English ([stress-timed]{style="background:red;color:white;"}) vs. Japanese ([mora-timed]{style="background:green;color:white;"})
 
 ![](img/nazzi-1.png)
 
 ## Language discrimination
 
-Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
-
 **Nazzi et al. (1998)**
 
-English (stress-timed) vs. Dutch (stress-timed)
-
-![](img/nazzi-2.png)
-
-## Language discrimination
-
-Neonates can discriminate between languages from different rhythm classes^[@mehler_precursor_1988; @nazzi_language_1998].
-
-**Nazzi et al. (1998)**
-
-English (stress-timed) vs. Dutch (stress-timed)
+English ([stress-timed]{style="background:red;color:white;"}) vs. Dutch ([stress-timed]{style="background:red;color:white;"})
 
 ![](img/nazzi-2.png)
 
@@ -415,23 +571,15 @@ English (stress-timed) vs. Dutch (stress-timed)
 
 ## Perceptual narrowing
 
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
-
-**Werker and Tees (1984)**
-
-Three groups of participants:
-
-* 6 month-old infants
-* English native adults
-* Thompson (*Nlaka'pamuctsin*, native American) native adults
+::: box
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker_cross-language_1984].
+:::
 
 ## Perceptual narrowing
 
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
-
 **Werker and Tees (1984)**
 
-Three groups of participants, exposed to exemplars of the /k/-/q/ consonant contrast^[@mayes1979acoustic]:
+Three groups of participants exposed to exemplars of the /k/-/q/ consonant contrast [@mayes1979acoustic]:
 
 * 6 month-old infants
 * English native adults
@@ -440,65 +588,204 @@ Three groups of participants, exposed to exemplars of the /k/-/q/ consonant cont
 
 ## Perceptual narrowing
 
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
-
 **Werker and Tees (1984)**
 
+::: {.columns}
+::: {.column width="60%"}
+<br>
+<br>
+
+<https://www.firstvoices.com/nlekepmxcin>
+
+**/k̓/** → k̓ʔés [nostalgia] [{{< fa play >}}](https://www.firstvoices.com/nlekepmxcin/words/285cb131-85b5-4959-94d1-2fddda004e15)
+
+**/q̓/** → q̓ip̓éw̓stn [belt] [{{< fa play >}}](https://www.firstvoices.com/nlekepmxcin/words/861c1061-4606-4062-b54c-11397f5b2b61)
+:::
+::: {.column width="40%"}
 ![](img/thompson.png)
+:::
+:::
 
 ## Perceptual narrowing
-
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
 
 **Werker and Tees (1984)**
 
-![](img/werker.png)
+![](img/werker.png){width="10%" fig-align="center"}
 
 ## Perceptual narrowing
-
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language^[@werker_cross-language_1984].
 
 **Werker and Tees (1984)**
 
 {{< video img/hpp.mp4 title="Headturn Preference Procedure (HPP)" width="800" >}}
 
+## Statistical learning
+
+![@brodbeck_continuous_2020](img/speech.jpg){fig-align="center"}
+
+How can infants learn new words in the absence of clear word boundaries in the continuous speech stream?
 
 ## Statistical learning
 
-Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran_statistical_1996]
+<br><br>
+
+::: {.mono .center}
+[whataprettybabyyouare]{style="background: black;color: white;"}
+:::
+
+::: center
+```{python}
+display.Audio(Path("sounds/pretty-baby.wav"))
+```
+:::
 
 ## Statistical learning
 
-Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran_statistical_1996]
+<br><br>
 
-[pretty]{style="background:black;color:white"}baby
+::: {.mono .center}
+[whataprettybabyyouare]{style="background: black;color: white;"}
+:::
 
-**Transitional probabilites (TP)**: relative number of co-ocurrences between two syllables
+![](img/pretty-baby.png){fig-align="center"}
 
+## Statistical learning
+
+<br><br>
+
+::: {.mono .center}
+[whataprettybabyyouare]{style="background: black;color: white;"}
+:::
+
+::: {.mono .center}
+what-a-pretty-baby-you-are
+:::
+
+## Statistical learning
+
+<br><br>
+
+::: {.mono .center}
+[whataprettybabyyouare]{style="background: black;color: white;"}
+:::
+
+::: {.mono .center}
+what-a-pretty-baby-you-are
+:::
+
+::: {.mono .center}
+whatapre-ttyba-byyouare
+:::
+
+## Statistical learning
+
+<br><br>
+
+::: {.mono .center}
+[whataprettybabyyouare]{style="background: black;color: white;"}
+:::
+
+::: {.mono .center}
+what-a-pretty-baby-you-are
+:::
+
+::: {.mono .center}
+whatapre-ttyba-byyouare
+:::
+
+::: {.mono .center}
+whata--prettyba-by-youare
+:::
+
+## Statistical learning
+
+<br><br>
+
+::: {.mono .center}
+[whataprettybabyyouare]{style="background: black;color: white;"}
+:::
+
+::: {.mono .center}
+what-a-pretty-baby-you-are
+:::
+
+::: {.mono .center}
+whatapre-ttyba-byyouare
+:::
+
+::: {.mono .center}
+whata--prettyba-by-youare
+:::
+
+::: {.mono .center}
+what-a-pre-tty-ba-by-you-are
+:::
+
+
+## Statistical learning
+
+::: box
+Infants exploit **statistical regularities** to segment the continuous speech signal into discrete units.
+:::
+
+
+## Statistical learning
+
+::: box
+Infants exploit **statistical regularities** to segment the continuous speech signal into discrete units.
+:::
+
+**Saffran, Aslin, and Newport (1996)**
+
+<br>
+<br>
+
+::: {.columns}
+::: {.column}
+Transitional probabilites (TP)
+: Relative number of co-ocurrences between two syllables
+:::
+::: {.column}
 $$
 Y|X = \frac{\text{frequency of }XY}{\text{frequency of }X} 
 $$
+:::
+:::
 
 ## Statistical learning
 
-Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran_statistical_1996]
+<br>
+<br>
 
-[pretty]{style="background:black;color:white"}baby
+::: {.mono .center}
+what[a]{style="background:grey;color:white;"}[pretty]{style="background:black;color:white"}[ba]{style="background:grey;color:white;"}byyouare
+:::
 
+<br>
+<br>
+
+::: {.mono .center}
+$TP_{pre|a} < TP_{tty|pre}$
+:::
+
+::: {.mono .center}
 $TP_{tty|pre} > TP_{ba|tty}$
-
-## Statistical learning
-
-Infants exploit statistical regularities to segment the continuous speech signal into discrete units^[@saffran_statistical_1996]
-
-[pretty]{style="background:black;color:white"}baby
+:::
 
 ## Statistical learning
 
 <br>
 <br>
 
-::: mono
+**Saffran, Aslin, Newport (1996)**
+
+<br>
+
+Exposed 8 month olds to a continuous string of syllables during 2 minutes.
+
+<br>
+<br>
+
+::: {.mono .center}
 ...tupirogolabubidakupadotigolabutupiropadotibidaku...
 :::
 
@@ -507,46 +794,49 @@ Infants exploit statistical regularities to segment the continuous speech signal
 <br>
 <br>
 
-Is [[golabu]{style="background:#000000;color:white"}]{.mono-inline} a word?
-
-
-## Statistical learning
-
-<br>
-<br>
-
-Is [[golabu]{style="background:#000000;color:white"}]{.mono-inline} a word?
-
-<br>
-
-Is [[labubi]{style="background:#e8e8e8;color:black"}]{.mono-inline} a word?
+::: {.center}
+Is [[golabu]{style="background:black;color:white"}]{.mono} a word?
+:::
 
 ## Statistical learning
 
 <br>
 <br>
 
-::: mono
+::: {.center}
+Is [[golabu]{style="background:black;color:white"}]{.mono} a word?
+:::
+
+<br>
+
+::: {.center}
+Is [[labubi]{style="background:grey;color:white"}]{.mono} a word?
+:::
+
+## Statistical learning
+
+<br>
+<br>
+
+::: {.mono .center}
 ...tupiro[golabu]{style="background:black;color:white"}bidakupadotigolabutupiropadotibidaku...
 :::
 
-
 ## Statistical learning
 
 <br>
 <br>
 
-::: mono
-...tupirogo[labubi]{style="background:#e8e8e8;color:black"}dakupadotigolabutupiropadotibidaku...
+::: {.mono .center}
+...tupirogo[labubi]{style="background:grey;color:white"}dakupadotigolabutupiropadotibidaku...
 :::
 
-
 ## Statistical learning
 
 <br>
 <br>
 
-::: mono
+::: {.mono .center}
 ...tupiro-golabu-bidaku-padoti-golabu-tupiro-padoti-bidaku...
 :::
 
@@ -555,11 +845,11 @@ Is [[labubi]{style="background:#e8e8e8;color:black"}]{.mono-inline} a word?
 <br>
 <br>
 
-::: mono
+::: {.mono .center}
 ...tupiro-golabu-bidaku-padoti-golabu-tupiro-padoti-bidaku...
 :::
 
-::: mono
+::: {.mono .center}
 ...tupi-rogola-bubida-kupado-tigola-butupi-ropado-tibida-ku...
 :::
 
@@ -568,15 +858,15 @@ Is [[labubi]{style="background:#e8e8e8;color:black"}]{.mono-inline} a word?
 <br>
 <br>
 
-::: mono
+::: {.mono .center}
 ...tupiro-golabu-bidaku-padoti-golabu-tupiro-padoti-bidaku...
 :::
 
-::: mono
+::: {.mono .center}
 ...tupi-rogola-bubida-kupado-tigola-butupi-ropado-tibida-ku...
 :::
 
-::: mono
+::: {.mono .center}
 ...tu-pirogo-labubi-dakupa-dotigo-labutu-piropa-dotibi-daku...
 :::
 
@@ -585,7 +875,7 @@ Is [[labubi]{style="background:#e8e8e8;color:black"}]{.mono-inline} a word?
 <br>
 <br>
 
-::: mono
+::: {.mono .center}
 ...tupiro[gola]{style="background:black;color:white"}bubidakupadoti[gola]{style="background:black;color:white"}butupiropadotibidaku...
 :::
 
@@ -599,7 +889,7 @@ $$
 <br>
 <br>
 
-::: mono
+::: {.mono .center}
 ...tupirogo[labu]{style="background:black;color:white"}bidakupadotigo[labu]{style="background:black;color:white"}tupiropadotibidaku...
 :::
 
@@ -613,8 +903,8 @@ $$
 <br>
 <br>
 
-::: mono
-...tupirogola[bubi]{style="background:#e8e8e8;color:black"}dakupadotigolabutupiropadotibidaku...
+::: {.mono .center}
+...tupirogola[bubi]{style="background:grey;color:white"}dakupadotigolabutupiropadotibidaku...
 :::
 
 $$
@@ -626,7 +916,7 @@ $$
 <br>
 <br>
 
-::: mono
+::: {.mono .center}
 ...tupirogolabu[bida]{style="background:black;color:white"}kupadotigolabutupiropadoti[bida]{style="background:black;color:white"}ku...
 :::
 
@@ -639,7 +929,7 @@ $$
 <br>
 <br>
 
-::: mono
+::: {.mono .center}
 ...tupirogolabubi[daku]{style="background:black;color:white"}padotigolabutupiropadotibi[daku]{style="background:black;color:white"}...
 :::
 
@@ -647,27 +937,32 @@ $$
 p(\text{ku|da}) = 1.0
 $$
 
-
 ## Statistical learning
 
 <br>
 <br>
 
-::: mono
-...tupirogolabubida[kupa]{style="background:#e8e8e8;color:black"}dotigolabutupiropadotibidaku...
+::: {.mono .center}
+...tupirogolabubida[kupa]{style="background:grey;color:white"}dotigolabutupiropadotibidaku...
 :::
 
 $$
 p(\text{pa|ku}) = 0.5
 $$
 
+## Statistical learning
 
-## Phonotactics
+**Saffran, Aslin, Newport (1996)**
 
-Rules governing the possible phoneme sequences in a language.
+![@arciuli_promise-and_2018](img/stat-learning.jpg)
 
-* Can /b/ and /l/ go together in Catalan?
-    + *blanca* [Catalan for *white*]: /blaŋkə/
+## Statistical learning
+
+**Saffran, Aslin, Newport (1996)**
+
+**Headturn Preference Procedure (HPP)**
+
+Infants looked longer to words (e.g., [pabiku]{style="background: black;color: white;"}) than to the part-words (e.g., [pabutu]{style="background: grey;color: white;"}).
 
 ## Phonotactics
 
@@ -675,8 +970,34 @@ Rules governing the possible **phoneme sequences** in a (particular) language.
 
 Can /b/ and /l/ go together in...
 
-* **Catalan**: *blanca* [Catalan for *white*] /blaŋkə/
-* **English**: *blue*: /bluː/
+* **Catalan** →
+
+
+## Phonotactics
+
+Rules governing the possible **phoneme sequences** in a (particular) language.
+
+Can /b/ and /l/ go together in...
+
+* **Catalan** → *blanca* [Catalan for *white*] /blaŋkə/
+
+## Phonotactics
+
+Rules governing the possible **phoneme sequences** in a (particular) language.
+
+Can /b/ and /l/ go together in...
+
+* **Catalan** → *blanca* [Catalan for *white*] /blaŋkə/
+* **English** →
+
+## Phonotactics
+
+Rules governing the possible **phoneme sequences** in a (particular) language.
+
+Can /b/ and /l/ go together in...
+
+* **Catalan** → *blanca* [Catalan for *white*] /blaŋkə/
+* **English** → *blue*: /bluː/
 
 ## Phonotactics
 
@@ -684,12 +1005,37 @@ Rules governing the possible **phoneme sequences** in a (particular) language.
 
 Can /s/ and /s/ go together in...
 
-* **Catalan**: ??
-* **English**: *slow* /sləʊ/
+* **Catalan** →
 
 ## Phonotactics
 
-From 9 months of age, infants show sensitivity to phonotactics in their native language^[@friederici_phonotactic_1993].
+Rules governing the possible **phoneme sequences** in a (particular) language.
+
+Can /s/ and /s/ go together in...
+
+* **Catalan** → ??
+
+## Phonotactics
+
+Rules governing the possible **phoneme sequences** in a (particular) language.
+
+Can /s/ and /s/ go together in...
+
+* **Catalan** → ??
+* **English** →
+
+## Phonotactics
+
+Rules governing the possible **phoneme sequences** in a (particular) language.
+
+Can /s/ and /s/ go together in...
+
+* **Catalan** → ??
+* **English** → *slow* /sləʊ/
+
+## Phonotactics
+
+From 9 months of age, infants show sensitivity to phonotactics in their native language [@friederici_phonotactic_1993].
 
 **Friederici and Wessels (1995)**
 
@@ -697,13 +1043,13 @@ From 9 months of age, infants show sensitivity to phonotactics in their native l
 
 Three conditions, based on their phonotacticality:
 
-- Legal syllables (e.g., *bref*, *murt*)
-- Illegal onset (e.g., *rtum*)
-- Illegal coda (e.g., *febr*)
+- **Legal** syllables (e.g., *bref*, *murt*)
+- **Illegal onset** syllables (e.g., *rtum*)
+- **Illegal coda** (e.g., *febr*)
 
 ## Phonotactics
 
-From 9 months of age, infants show sensitivity to phonotactics in their native language^[@friederici_phonotactic_1993].
+From 9 months of age, infants show sensitivity to phonotactics in their native language [@friederici_phonotactic_1993].
 
 Headturn Preference Procedure (HPP):
 
@@ -718,17 +1064,17 @@ Headturn Preference Procedure (HPP):
 
 ## Phonotactics
 
-From 9 months of age, infants show sensitivity to phonotactics in their native language^[@friederici_phonotactic_1993].
+From 9 months of age, infants show sensitivity to phonotactics in their native language [@friederici_phonotactic_1993].
 
 9 month-old infants (but not younger infants) looked longer to trials in which legal syllables were presented, compared to illegal syllables.
 
 ## Word acquisition
 
-Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
 
 ## Word acquisition
 
-Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
 
 **Bergelson and Swingley (2012)**
 
@@ -739,7 +1085,7 @@ Auditory word recognition study using eye-tracking
 
 ## Word acquisition
 
-Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
 
 **Bergelson and Swingley (2012)**
 
@@ -749,7 +1095,7 @@ Auditory word recognition study using eye-tracking
 
 ## Word acquisition
 
-Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
 
 **Bergelson and Swingley (2012)**
 
@@ -759,7 +1105,7 @@ Auditory word recognition study using eye-tracking
 
 ## Word acquisition
 
-Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
 
 **Bergelson and Swingley (2012)**
 
@@ -769,7 +1115,7 @@ Auditory word recognition study using eye-tracking
 
 ## Word acquisition
 
-Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
 
 **Bergelson and Swingley (2012)**
 
@@ -779,13 +1125,13 @@ Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
 
 ## Vocabulary spurt
 
-From 12 months of age onwards, infants' vocabulary grows at a steady rate until 18 months of age. From 12 to 24 months, it grows much faster (*vocabulary spurt*).^[@frank_wordbank:_2017; @goldfield_early_1990].
+From 12 months of age onwards, infants' vocabulary grows at a steady rate until 18 months of age. From 12 to 24 months, it grows much faster (*vocabulary spurt*). [@frank_wordbank:_2017; @goldfield_early_1990].
 
 ![](img/vocabulary-1.png)
 
 ## Vocabulary spurt
 
-From 12 months of age onwards, infants' vocabulary grows at a steady rate until 18 months of age. From 12 to 24 months, it grows much faster (*vocabulary spurt*).^[@frank_wordbank:_2017; @goldfield_early_1990].
+From 12 months of age onwards, infants' vocabulary grows at a steady rate until 18 months of age. From 12 to 24 months, it grows much faster (*vocabulary spurt*). [@frank_wordbank:_2017; @goldfield_early_1990].
 
 ![](img/vocabulary-2.png)
 
@@ -793,7 +1139,7 @@ From 12 months of age onwards, infants' vocabulary grows at a steady rate until 
 
 ::: {.columns}
 ::: {.column}
-In the adult lexicon, words are stored as a network of phonological and semantic representations of nodes, interconnected by their conceptual or phonological relatedness^[@collins]
+In the adult lexicon, words are stored as a network of phonological and semantic representations of nodes, interconnected by their conceptual or phonological relatedness [@collins]
 
 :::
 ::: {.column}
@@ -805,7 +1151,7 @@ In the adult lexicon, words are stored as a network of phonological and semantic
 
 ::: {.columns}
 ::: {.column}
-In the adult lexicon, words are stored as a network of phonological and semantic representations of nodes, interconnected by their conceptual or phonological relatedness^[@collins]
+In the adult lexicon, words are stored as a network of phonological and semantic representations of nodes, interconnected by their conceptual or phonological relatedness [@collins]
 
 :::
 ::: {.column}
@@ -874,7 +1220,7 @@ Responses are
 
 ## Lexical development
 
-Between 18 and 21s months, words start being represented in infants' mental lexicon in association with other phonologically and semantically related word.^[@arias-trejo_lexicalsemantic_2009].
+Between 18 and 21s months, words start being represented in infants' mental lexicon in association with other phonologically and semantically related word. [@arias-trejo_lexicalsemantic_2009].
 
 **Arias-Trejo and Plunkett (2009)**
 
@@ -914,7 +1260,7 @@ Semantic priming task, auditory word recognition.
 
 ## Lexical development
 
-Between 18 and 21 months, words start being represented in infants' mental lexicon in association with other phonologically and semantically related word.^[@arias-trejo_lexicalsemantic_2009].
+Between 18 and 21 months, words start being represented in infants' mental lexicon in association with other phonologically and semantically related word. [@arias-trejo_lexicalsemantic_2009].
 
 **Arias-Trejo and Plunkett (2009)**
 

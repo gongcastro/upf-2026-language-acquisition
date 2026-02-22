@@ -43,18 +43,28 @@ figcaption {
     font-family: monospace;
 }
 
-.mono, .mono-inline {
+.mono {
     font-family: monospace;
     font-size: 30px;
 }
 
-.mono {
+.center {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;  
 }
 
-
+.box {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    background: lightgrey;
+    color: black
+}
 
 #title-slide {
 

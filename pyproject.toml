@@ -5,8 +5,12 @@ description = "Slides for the Neurocognitive Development classes for the MSc in 
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "ipython>=9.10.0",
     "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
     "mbrola==0.2.0",
+    "numpy>=2.4.2",
     "pytubefix>=10.3.8",
     "quarto>=0.1.0",
+    "soundfile>=0.13.1",
 ]
