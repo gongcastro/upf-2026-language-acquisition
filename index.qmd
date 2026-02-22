@@ -722,13 +722,203 @@ From 9 months of age, infants show sensitivity to phonotactics in their native l
 
 9 month-old infants (but not younger infants) looked longer to trials in which legal syllables were presented, compared to illegal syllables.
 
-# 12-24 months of age
+## Word acquisition
+
+Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
 
 ## Word acquisition
 
+Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+
+**Bergelson and Swingley (2012)**
+
+Auditory word recognition study using eye-tracking 
+
+![@bergelson_at_2012](img/bergelson-2.jpg).
+
+
+## Word acquisition
+
+Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+
+**Bergelson and Swingley (2012)**
+
+Auditory word recognition study using eye-tracking 
+
+![](img/apple-mouth.png)
+
+## Word acquisition
+
+Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+
+**Bergelson and Swingley (2012)**
+
+Auditory word recognition study using eye-tracking 
+
+![](img/cookie-eyes.png)
+
+## Word acquisition
+
+Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+
+**Bergelson and Swingley (2012)**
+
+Auditory word recognition study using eye-tracking 
+
+![](img/hair-banana.png.png)
+
+## Word acquisition
+
+Infants acquire their first words aroud 6 months of age^[@bergelson_at_2012].
+
+**Bergelson and Swingley (2012)**
+
+![](img/bergelson.jpeg)
+
+# 12-24 months
+
 ## Vocabulary spurt
 
-## Lexical development 
+From 12 months of age onwards, infants' vocabulary grows at a steady rate until 18 months of age. From 12 to 24 months, it grows much faster (*vocabulary spurt*).^[@frank_wordbank:_2017; @goldfield_early_1990].
+
+![](img/vocabulary-1.png)
+
+## Vocabulary spurt
+
+From 12 months of age onwards, infants' vocabulary grows at a steady rate until 18 months of age. From 12 to 24 months, it grows much faster (*vocabulary spurt*).^[@frank_wordbank:_2017; @goldfield_early_1990].
+
+![](img/vocabulary-2.png)
+
+## Lexical development
+
+::: {.columns}
+::: {.column}
+In the adult lexicon, words are stored as a network of phonological and semantic representations of nodes, interconnected by their conceptual or phonological relatedness^[@collins]
+
+:::
+::: {.column}
+![](img/loftus.png)
+:::
+:::
+
+## Lexical development
+
+::: {.columns}
+::: {.column}
+In the adult lexicon, words are stored as a network of phonological and semantic representations of nodes, interconnected by their conceptual or phonological relatedness^[@collins]
+
+:::
+::: {.column}
+![](img/luef.png)
+:::
+:::
+
+## Lexical development
+
+**Lexical decision task**: Is the presented word a real word in English?
+
+* Raise your **left** hand if [yes]{style="background:green;"}
+* Raise your **right** hand if [yes]{style="background:red;"}
+
+---
+
+**PLANT**
+
+---
+
+**MALDS**
+
+---
+
+**TREE**
+
+---
+
+*Wait for the second word!*
+
+---
+
+XXXXX
+
+---
+
+**TABLE**
+
+---
+
+NURSE
+
+---
+
+DOCTOR
+
+---
+
+XXXXX
+
+---
+
+BIRD
+
+---
+
+CAT
+
+---
+
+PLANE
+
+## Lexical development
+
+Responses are 
+
+## Lexical development
+
+Between 18 and 21s months, words start being represented in infants' mental lexicon in association with other phonologically and semantically related word.^[@arias-trejo_lexicalsemantic_2009].
+
+**Arias-Trejo and Plunkett (2009)**
+
+Semantic priming task, auditory word recognition.
+
+---
+
+![](img/arias-1.png)
+
+---
+
+![](img/arias-2.png)
+
+---
+
+![](img/arias-3.png)
+
+---
+
+![](img/arias-4.png)
+
+---
+
+![](img/arias-5.png)
+
+---
+
+![](img/arias-6.png)
+
+---
+
+![](img/arias-7.png)
+
+---
+
+![](img/arias-8.png)
+
+## Lexical development
+
+Between 18 and 21 months, words start being represented in infants' mental lexicon in association with other phonologically and semantically related word.^[@arias-trejo_lexicalsemantic_2009].
+
+**Arias-Trejo and Plunkett (2009)**
+
+![](img/arias-10.png)
 
 # 24-36 months of age
 
