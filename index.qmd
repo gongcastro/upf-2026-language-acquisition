@@ -1458,13 +1458,13 @@ From 12 months of age onwards, infants' vocabulary grows at a steady rate until 
 ## Vocabulary growth
 
 ::: center
-![@garcia-castro_bilingual_2024](img/vocabulary-1.png)
+![@garcia-castro_bilingual_2024](img/vocabulary-1.png){width="70%"}
 :::
 
 ## Vocabulary growth
 
 ::: center
-![@garcia-castro_bilingual_2024](img/vocabulary-2.png)
+![@garcia-castro_bilingual_2024](img/vocabulary-2.png){width="70%"}
 :::
 
 ## (Bilingual) vocabulary growth
