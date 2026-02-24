@@ -5,7 +5,7 @@ from pathlib import Path
 from IPython import display
 ```
 
-# Language [acquisition]{style="color: grey;"}
+# [Language]{style="background: black; color: white;"} acquisition
 
 ---
 
@@ -15,19 +15,19 @@ from IPython import display
 <br>
 
 ::: center
-What is language?
+**What** is language?
 :::
 
 ::: center
-What is language like?
+What is language **like**?
 :::
 
 ::: center
-What is language for?
+What is language **for**?
 :::
 
 ::: center
-Where does language come from?
+Where does language come **from**?
 :::
 
 ## What is language?
@@ -42,11 +42,20 @@ No easy, complete, specific way to define language
 
 ## What is language?
 
+::: center
 {{< video img/koko.mp4 title="Koko" start="120" width="800" >}}
+:::
+
+<https://www.youtube.com/watch?v=FqJf1mB5PjQ>
+
 
 ## What is language?
 
-{{< video img/alex.mp4 title="Alex" width="800" >}}
+::: center
+{{< video img/alex.mp4 title="Alex" width="700" >}}
+:::
+
+<https://www.youtube.com/watch?v=ldYkFdu5FJk>
 
 ## What is language?
 
@@ -59,15 +68,27 @@ Finite system of symbols (words) that can be combined using rules to make a virt
 
 ## What is language?
 
+::: center
 {{< video img/protactile.mp4 title="Protactile language" width="800" >}}
+:::
+
+<https://www.youtube.com/watch?v=8im72wFTa9Y>
 
 ## What is language?
 
+::: center
 {{< video img/silbo-gomero.mp4 title="Silbo gomero" width="800" >}}
+:::
+
+<https://www.youtube.com/watch?v=C0CIRCjoICA>
 
 ## What is language?
 
+::: center
 {{< video img/kus-dili.mp4 title="Kuş dili" width="800" >}}
+:::
+
+<https://www.youtube.com/watch?v=l117wfB0g3o>
 
 ## What is language?
 
@@ -80,7 +101,19 @@ Finite system of [symbols]{style="background: black; color: white"} (words) that
 
 <br>
 
-*Words* (symbols, in general) hold arbitrary relationship between form and meaning
+
+::: {.columns}
+::: {.column}
+**Words** (symbols, in general) hold **arbitrary** relationship between form and meaning^[With few exceptions].
+
+Does the word *tree* sound, look, or feel like a tree?
+:::
+::: {.column}
+::: center
+![](img/tree.png){width=200}
+:::
+:::
+:::
 
 ## What is language?
 
@@ -91,9 +124,24 @@ Finite system of [symbols]{style="background: black; color: white"} (words) that
 
 [Finite]{style="background: black; color: white"} system of symbols (words) that can be combined using rules to make a virtually infinite number of distinct sentences.
 
-<br>
-
-**Limited number of words** in a language
+::: {.columns}
+::: {.column width="30%"}
+**Limited number of words** in a language.
+:::
+::: {.column width="70%"}
+|Person       | Words   | Lemmas | Base words |
+|-------------|---------|--------|------------|
+| *20-year-old* |         |        |            | 	
+| Low end     | 84,000  | 27,100 | 6,100      |
+| Median      |         | 42,000 | 11,100     |
+| High end    | 292,000 | 51,700 | 14,900     |
+| *60-year-old* |       |      |          |		
+| Low end     | 157,000 | 35,100 | 9,000      |
+| Median	  |         | 48,200 | 13,400     |
+| High end    | 543,000 | 56,400 | 16,700     |
+: Adapted from @brysbaert_how_2016.
+:::
+:::
 
 ## What is language?
 
@@ -102,12 +150,21 @@ Finite system of [symbols]{style="background: black; color: white"} (words) that
 
 ### Language as an object
 
-
 Finite system of symbols (words) that can be combined using [rules]{style="background: black; color: white"} to make a virtually infinite number of distinct sentences.
 
 <br>
 
-Words (and other linguistic units) are **combined in systematic ways**, following rules we know as **grammar**
+::: {.columns}
+::: {.column}
+Words (and other linguistic units) are **combined in systematic ways**, following rules we know as **grammar**.
+:::
+::: {.column}
+::: center
+![](img/recursivity.gif)
+:::
+:::
+:::
+
 
 ## What is language?
 
@@ -135,21 +192,20 @@ Words (and other linguistic units) are **combined in systematic ways**, followin
 
 ### Language as a function
 
-Ability to systematically combine (**grammar**) a finite set of symbols (**words**) provided by a language so that a virtually ilimited number of sentences can be created (**productivity**).
-
-## What is language?
+[Ability]{style="background: black;color: white;"} to systematically combine (**grammar**) a finite set of symbols (**words**) provided by a language so that a virtually ilimited number of sentences can be created (**productivity**).
 
 <br>
-<br>
 
-### Language as a function
-
-Ability to systematically combine (**grammar**) a finite set of symbols (**words**) provided by a language so that a virtually ilimited number of sentences can be created (**productivity**).
-
-<br>
+::: incremental
 
 * Can Koko combine signs **productively** to communicate complex ideas?
+* Can speakers of silbo gomero combine different whistles **productively**?
+
+<br>
+
 * Is Alex's communication **symbolic**?
+* Are tactile cues in protactile language **symbolic**?
+:::
 
 ## What is language like?
 
@@ -161,12 +217,21 @@ Ability to systematically combine (**grammar**) a finite set of symbols (**words
 Linguistics
 : Scientific study of language(s)
 
-Languages are made of different **linguistic units**
+<br>
 
-Linguistic units are **organised hierarchically**
+Languages are made of different **linguistic units**, which are **organised hierarchically**:
+
+::: incremental
+* Phonemes
+* Syllables
+* Words
+* Sentences
+:::
+
+
 :::
 ::: {.column}
-![](img/linguistics.png) [https://blogonlinguistics.wordpress.com/2016/03/26/what-is-linguistics/]
+[![](img/linguistics.png)](https://blogonlinguistics.wordpress.com/2016/03/26/what-is-linguistics/)
 :::
 :::
 
@@ -175,23 +240,25 @@ Linguistic units are **organised hierarchically**
 <br>
 <br>
 
-![](img/meyer.jpg) [@meyer_neural_2018]
+::: center
+![](img/meyer.jpg)[@meyer_neural_2018]
+:::
 
 ## What is language like?
 
-::: {.columns}
-::: {.column}
 <br>
 <br>
 
 Phonemes
-: Speech sounds that distinguish words with different meaning:
+: Speech sounds that distinguish words with different meaning in a particular language
 
 [International Phonology Association (IPA)](https://www.ipachart.com/)
-:::
-::: {.column}
-/kaza/ vs. /kasa/
-:::
+
+::: incremental
+* In Catalan and Spanish, do **/d/ and /ð/** distinguish meanings?
+    + Do /dedo/ and /deðo/ mean different things in Spanish?
+* In Catalan and Spanish, do **/o/ and /ɔ/** distinguish meanings?
+    + Do /os/ and /ɔs/ mean different things in Catalan? And in Spanish?
 :::
 
 ## What is language like?
@@ -199,20 +266,15 @@ Phonemes
 <br>
 <br>
 
-::: {.columns}
-::: {.column}
 Phonemes
-: Speech sounds that distinguish words with different meaning:
-:::
-::: {.column}
+: Speech sounds that distinguish words with different meaning.
+
 ::: {.callout-caution title="Phonemes ≠ Letters"}
 casa [Catalan for *house*]
 : 4 letters, 4 phonemes: /k a z a/
 
 cotxe [Catalan for *car*]
 : 5 letters, 4 phonemes: /k o t͡ʃ ə/ 
-:::
-:::
 :::
 
 ## What is language like?
@@ -224,9 +286,13 @@ cotxe [Catalan for *car*]
 
 Syllables
 : Minimal unit of pronunciation.
+
+Universal structure!
 :::
 ::: {.column}
+::: center
 ![](img/syllable.png)
+:::
 :::
 :::
 
@@ -238,7 +304,7 @@ Syllables
 <br>
 
 Words
-: Minimal unit of meaning. Form-meaning association.
+: Form-meaning association (minimal unit of meaning).
 
 <br>
 
@@ -247,7 +313,9 @@ Mental lexicon
 
 :::
 ::: {.column}
+::: center
 ![](img/word-forms.png)
+:::
 :::
 :::
 
@@ -277,18 +345,16 @@ Mental lexicon
 
 Sentence
 : Words organised into grammatically coherent structures. Maximal unit of speech production.
+
+**Grammar** provides the **rules** that allow speakers of a language to combine words in a **productive** way, to express virtually any possible meaning.
+
 :::
 ::: {.column}
+::: center
 ![](img/syntax.png)
 :::
 :::
-
-## What is language for?
-
-<br>
-<br>
-
-Language provides clear evolutionary advantages
+:::
 
 ## What is language for?
 
@@ -313,7 +379,7 @@ Complex thinking does not necessarily engage language-related brain areas and vi
 
 The ability to use language provided humans with complex thinking [@chomsky2014minimalist; @goldin2003thought].
 
-(Some forms of) thinking require or are facilitated by language [e.g., @lupyan_language_2007]
+Some forms of thinking require or are facilitated by language [e.g., @lupyan_language_2007]
 :::
 :::
 
@@ -352,7 +418,7 @@ Can only be investigated *indirectly*:
 :::
 :::
 
-# [Language]{style="color: grey;"} acquisition
+# Language [acquisition]{style="background: black;color: white;"}
 
 
 ## Is language *learned*? 
@@ -363,6 +429,7 @@ Can only be investigated *indirectly*:
 ::: {.incremental}
 * Humans need **exposure** to language to acquire language
 * Not all humans speak the same language, and genes do not explain cross-linguistic differences
+* There is an obvious learning component to language acquisition
 :::
 
 ## Is language *inherited*?
@@ -376,7 +443,7 @@ Can only be investigated *indirectly*:
 * Language is **unique to humans**, non-human animals do not acquire language even after intensive training
 :::
 
-## Current views on language ontogeny
+## Current directions
 
 <br>
 <br>
@@ -406,10 +473,11 @@ Pre-natal language exposure
 * **Low-pass filter**: frequencies lower than 550 Hz reach the fetus' ears, higher frequencies do not
 :::
 ::: {.column}
+::: center
 ![@hepper_development_1994](img/fetal-hearing.png){fig-align="right"}
 :::
 :::
-
+:::
 
 ## Fetal language exposure
 
@@ -418,6 +486,8 @@ Pre-natal language exposure
 ::: center
 {{< video img/womb.mp4 title="Acoustics in the womb" width="800" >}}
 :::
+
+<https://www.youtube.com/watch?v=yWBgy55EkIM>
 
 ## Fetal language exposure
 
@@ -430,7 +500,7 @@ Pre-natal language exposure
 ::: {.column}
 
 * The fetal auditory system is **functional from 20 weeks of gestation**
-* **Biological tissues** (sking, muscle, amniotic liquid) filter the acoustic signal
+* **Biological tissues** (skin, muscle, amniotic liquid) filter the acoustic signal
 * **Low-pass filter**: frequencies lower than 550 Hz reach the fetus' ears, higher frequencies do not
 :::
 ::: {.column}
@@ -453,7 +523,7 @@ display.Audio(Path("sounds/pretty-baby.wav"))
 
 
 ::: center
-Low-pass filtered signal
+High-pass filtered signal
 :::
 
 ```{python}
@@ -496,35 +566,62 @@ display.Audio(Path("sounds/pretty-baby_high-pass.wav"))
 Newborns prefer speech over non-speech sounds.
 :::
 
-**@vouloumanos_listening_2007**
+**Vouloumanos, Christophe, and Bertoncini (1997)**
 
 ## First encounters with language
 
-**Vouloumanos, Christophe, and, Bertoncini (1997)**
+**Vouloumanos, Christophe, and Bertoncini (1997)**
 
+::: {.columns}
+::: {.column}
 High Amplitude Sucking (HAS) procedure [@floccia_high-amplitude_1997]
 
-* Neonates are trained to increase the sucking rate in order to continue listening to some auditory stimulus.
+* Newborns are trained to **increase their sucking rate** in order to continue listening to some auditory stimulus.
 * Sucking rate is compared for two or more types of stimuli.
-* If neonates prefer some type of stimuli over the others, sucking rate should be higher for that type of stimulus.
+* If newborns **prefer** some type of stimuli over the others, sucking rate should be higher for that type of stimulus.
+:::
+::: {.column}
+:::
+:::
+
 
 ## First encounters with language
 
-**Vouloumanos, Christophe, and, Bertoncini (1997)**
+::: center
+{{< video img/sucking.mp4 title="High Amplitude Sucking (HAS) procedure" width="800" >}}
+:::
 
+<https://www.youtube.com/watch?v=psgv41HVdaE>
+
+## First encounters with language
+
+**Vouloumanos, Christophe, and Bertoncini (1997)**
+
+::: {.columns}
+::: {.column}
 High Amplitude Sucking (HAS) procedure [@floccia_high-amplitude_1997]
 
-{{< video img/sucking.mp4 title="High Amplitude Sucking (HAS) procedure" width="800" >}}
+* Newborns are trained to **increase their sucking rate** in order to continue listening to some auditory stimulus.
+* Sucking rate is compared for two or more types of stimuli.
+* If newborns **prefer** some type of stimuli over the others, sucking rate should be higher for that type of stimulus.
+:::
+::: {.column}
+<br>
+<br>
 
-## First encounters with language
-
+::: center
 ![](img/voloumanos.png)
+:::
+:::
+:::
 
 ## Language discrimination
 
 ::: box
-Neonates can discriminate between languages from different rhythm classes [@mehler_precursor_1988; @nazzi_language_1998].
+Newborns can discriminate between languages from different rhythm classes
 :::
+
+**Nazzi et al. (1998)**
 
 ## Language discrimination
 
@@ -540,7 +637,9 @@ Neonates can discriminate between languages from different rhythm classes [@mehl
 | [*Mora-timed*]{style="background:green;color:white;"}     | Japanese, Tamil  | H O - N - D A |
 :::
 ::: {.column width="40%"}
-![](img/ramus.gif) [@ramus_correlates_1999]
+::: center
+![@ramus_correlates_1999](img/ramus.gif)
+:::
 :::
 :::           
 
@@ -557,7 +656,9 @@ Neonates can discriminate between languages from different rhythm classes [@mehl
 
 English ([stress-timed]{style="background:red;color:white;"}) vs. Japanese ([mora-timed]{style="background:green;color:white;"})
 
-![](img/nazzi-1.png)
+::: center
+![](img/nazzi-1.png){width="65%"}
+:::
 
 ## Language discrimination
 
@@ -565,15 +666,108 @@ English ([stress-timed]{style="background:red;color:white;"}) vs. Japanese ([mor
 
 English ([stress-timed]{style="background:red;color:white;"}) vs. Dutch ([stress-timed]{style="background:red;color:white;"})
 
-![](img/nazzi-2.png)
+::: center
+![](img/nazzi-2.png){width="65%"}
+:::
+
+## (Bilingual) language discrimination
+
+::: box
+Bilingual infants discriminate their native languages, even if they belong to the same rhythmic group.
+:::
+
+**Bosch and Sebastian-Galles (2001)**
+
+## (Bilingual) language discrimination
+
+::: box
+Bilingual infants discriminate their native languages, even if they belong to the same rhythmic group.
+:::
+
+**Bosch and Sebastian-Galles (2001)**
+
+Three groups of participants:
+
+* 4 month-old **Catalan monolinguals**
+* 4 month-old **Spanish monolinguals**
+* 4 month-old **Catalan-Spanish bilinguals**
+
+## (Bilingual) language discrimination
+
+**Bosch and Sebastian-Galles (2001)**
+
+::: {.columns}
+::: {.column width="40%"}
+**Familiarization-preference Procedure** [@jusczyk_infants_1995]
+
+1) *Familiarization phase*: sentences in the native/dominant language
+2) *Test phase*: sentences in both languages
+
+Which sentences do infants prefer to listen to?
+:::
+::: {.column width="60%"}
+
+:::
+:::
+
+## (Bilingual) language discrimination
+
+**Bosch and Sebastian-Galles (2001)**
+
+::: {.columns}
+::: {.column width="40%"}
+**Familiarization-preference Procedure** [@jusczyk_infants_1995]
+
+1) *Familiarization phase*: sentences in the native/dominant language
+2) *Test phase*: sentences in both languages
+
+Which sentences do infants prefer to listen to?
+:::
+::: {.column width="60%"}
+::: center
+**Monolinguals**
+:::
+![](img/bosch-1.png)
+:::
+:::
+
+## (Bilingual) language discrimination
+
+**Bosch and Sebastian-Galles (2001)**
+
+::: {.columns}
+::: {.column width="40%"}
+**Familiarization-preference Procedure** [@jusczyk_infants_1995]
+
+1) *Familiarization phase*: sentences in the native/dominant language
+2) *Test phase*: sentences in both languages
+
+Which sentences do infants prefer to listen to?
+:::
+::: {.column width="60%"}
+::: center
+**Bilinguals**
+:::
+
+![](img/bosch-2.png)
+:::
+:::
+
+## (Bilingual) language discrimination
+
+![@nacar_garcia_evoked_2018](img/nacar.png)
+
 
 # 6-12 months of age
 
 ## Perceptual narrowing
 
 ::: box
-From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language [@werker_cross-language_1984].
+From 6 to 12 months of age, infants attune their perceptual abilities to the sounds of their native language.
 :::
+
+**Werker and Tees (1984)**
+
 
 ## Perceptual narrowing
 
@@ -602,7 +796,9 @@ Three groups of participants exposed to exemplars of the /k/-/q/ consonant contr
 **/q̓/** → q̓ip̓éw̓stn [belt] [{{< fa play >}}](https://www.firstvoices.com/nlekepmxcin/words/861c1061-4606-4062-b54c-11397f5b2b61)
 :::
 ::: {.column width="40%"}
+::: center
 ![](img/thompson.png)
+:::
 :::
 :::
 
@@ -610,7 +806,9 @@ Three groups of participants exposed to exemplars of the /k/-/q/ consonant contr
 
 **Werker and Tees (1984)**
 
-![](img/werker.png){width="10%" fig-align="center"}
+::: center
+![](img/werker.png){width="50%" fig-align="center"}
+:::
 
 ## Perceptual narrowing
 
@@ -618,11 +816,147 @@ Three groups of participants exposed to exemplars of the /k/-/q/ consonant contr
 
 {{< video img/hpp.mp4 title="Headturn Preference Procedure (HPP)" width="800" >}}
 
+<https://www.youtube.com/watch?v=WvM5bqUsbu8>
+
+## (Bilingual) perceptual narrowing
+
+::: box
+Perceptual narrowing also happens in bilinguals, but is evidenced in different ways than in monolinguals.
+:::
+
+**Bosch and Sebastian-Galles (2003)**
+
+## (Bilingual) perceptual narrowing
+
+**Bosch and Sebastian-Galles (2003)**
+
+Three groups of infants:
+
+* 4.5 month-old **Catalan monolinguals**
+* 4.5 month-old **Spanish monolinguals**
+* 4.5 month-old **Catalan/Spanish bilinguals**
+
+## (Bilingual) perceptual narrowing
+
+**Bosch and Sebastian-Galles (2003)**
+
+::: {.columns}
+::: {.column width="35%"}
+*Familiarization-preference procedure*
+
+1) Familiarization phase:
+
+/d**e**ð̞i/ *or* /d**ɛ**ð̞i/
+
+2) Test phase:
+
+/d**e**ð̞i/ *and* /d**ɛ**ð̞i/
+
+Which sentences do infants prefer to listen to?
+:::
+::: {.column}
+:::
+:::
+
+## (Bilingual) perceptual narrowing
+
+**Bosch and Sebastian-Galles (2003)**
+
+::: {.columns}
+::: {.column width="35%"}
+*Familiarization-preference procedure*
+
+
+1) Familiarization phase:
+
+/d**e**ð̞i/ *or* /d**ɛ**ð̞i/
+
+2) Test phase:
+
+/d**e**ð̞i/ *and* /d**ɛ**ð̞i/
+
+Which sentences do infants prefer to listen to?
+:::
+::: {.column width="65%"}
+![](img/bosch-2003-1.png)
+:::
+:::
+
+## (Bilingual) perceptual narrowing
+
+**Bosch and Sebastian-Galles (2003)**
+
+::: {.columns}
+::: {.column width="35%"}
+*Familiarization-preference procedure*
+
+
+1) Familiarization phase:
+
+/d**e**ð̞i/ *or* /d**ɛ**ð̞i/
+
+2) Test phase:
+
+/d**e**ð̞i/ *and* /d**ɛ**ð̞i/
+
+Which sentences do infants prefer to listen to?
+:::
+::: {.column width="65%"}
+![](img/bosch-2003-2.png)
+:::
+:::
+
+## (Bilingual) perceptual narrowing
+
+::: box
+Perceptual narrowing also happens in bilinguals, but is evidenced in different ways than in monolinguals.
+:::
+
+**Albareda-Castellot, Pons and Sebastian-Galles (2010)**
+
+Can Catalan/Spanish bilinguals really not discriminate the native, Catalan contrast?
+
+## (Bilingual) perceptual narrowing
+
+**Albareda-Castellot, Pons and Sebastian-Galles (2010)**
+
+::: {.columns}
+::: {.column width="40%"}
+**Anticipatory eye movement paradigm**
+
+Eye-tracking
+
+Can infants anticipate the trajectory of an object based on its associated speech sounds? E.g.: /d**e**ð̞i/ → **left**, /d**ɛ**ð̞i/ → **right**
+:::
+::: {.column width="60%"}
+![](img/albareda-1.png)
+:::
+:::
+
+## (Bilingual) perceptual narrowing
+
+**Albareda-Castellot, Pons and Sebastian-Galles (2010)**
+
+::: {.columns}
+::: {.column width="40%"}
+**Anticipatory eye movement paradigm**
+
+Eye-tracking
+
+Can infants anticipate the trajectory of an object based on its associated speech sounds? E.g.: /d**e**ð̞i/ → **left**, /d**ɛ**ð̞i/ → **right**
+:::
+::: {.column width="60%"}
+![](img/albareda-2.png)
+:::
+:::
+
 ## Statistical learning
 
+::: center
 ![@brodbeck_continuous_2020](img/speech.jpg){fig-align="center"}
+:::
 
-How can infants learn new words in the absence of clear word boundaries in the continuous speech stream?
+How can infants learn new **words** in the absence of clear **word boundaries** in the **continuous speech stream**?
 
 ## Statistical learning
 
@@ -954,15 +1288,19 @@ $$
 
 **Saffran, Aslin, Newport (1996)**
 
-![@arciuli_promise-and_2018](img/stat-learning.jpg)
-
-## Statistical learning
-
-**Saffran, Aslin, Newport (1996)**
-
+::: {.columns}
+::: {.column}
 **Headturn Preference Procedure (HPP)**
 
-Infants looked longer to words (e.g., [pabiku]{style="background: black;color: white;"}) than to the part-words (e.g., [pabutu]{style="background: grey;color: white;"}).
+Looking times to **words** (e.g., [pabiku]{style="background: black;color: white;"}) higher thanto **part-words** (e.g., [pabutu]{style="background: grey;color: white;"})
+
+:::
+::: {.column}
+::: center
+![@arciuli_promise-and_2018](img/stat-learning.jpg)
+:::
+:::
+:::
 
 ## Phonotactics
 
@@ -997,13 +1335,13 @@ Rules governing the possible **phoneme sequences** in a (particular) language.
 Can /b/ and /l/ go together in...
 
 * **Catalan** → *blanca* [Catalan for *white*] /blaŋkə/
-* **English** → *blue*: /bluː/
+* **English** → *blue* /bluː/
 
 ## Phonotactics
 
 Rules governing the possible **phoneme sequences** in a (particular) language.
 
-Can /s/ and /s/ go together in...
+Can /s/ and /l/ go together in...
 
 * **Catalan** →
 
@@ -1011,7 +1349,7 @@ Can /s/ and /s/ go together in...
 
 Rules governing the possible **phoneme sequences** in a (particular) language.
 
-Can /s/ and /s/ go together in...
+Can /s/ and /l/ go together in...
 
 * **Catalan** → ??
 
@@ -1019,7 +1357,7 @@ Can /s/ and /s/ go together in...
 
 Rules governing the possible **phoneme sequences** in a (particular) language.
 
-Can /s/ and /s/ go together in...
+Can /s/ and /l/ go together in...
 
 * **Catalan** → ??
 * **English** →
@@ -1028,14 +1366,16 @@ Can /s/ and /s/ go together in...
 
 Rules governing the possible **phoneme sequences** in a (particular) language.
 
-Can /s/ and /s/ go together in...
+Can /s/ and /l/ go together in...
 
 * **Catalan** → ??
 * **English** → *slow* /sləʊ/
 
 ## Phonotactics
 
-From 9 months of age, infants show sensitivity to phonotactics in their native language [@friederici_phonotactic_1993].
+::: box
+From 9 months of age, infants show sensitivity to phonotactics in their native language.
+:::
 
 **Friederici and Wessels (1995)**
 
@@ -1049,101 +1389,121 @@ Three conditions, based on their phonotacticality:
 
 ## Phonotactics
 
-From 9 months of age, infants show sensitivity to phonotactics in their native language [@friederici_phonotactic_1993].
-
-Headturn Preference Procedure (HPP):
-
-::: {.columns}
-::: {.column}
-![https://www.uni-potsdam.de/en/babylab/informations-for-parents/methods/hpp](img/hpp.jpg)
-:::
-::: {.column}
-![@brooks_language_2012](img/hpp-2.jpg)
-:::
-:::
-
-## Phonotactics
-
-From 9 months of age, infants show sensitivity to phonotactics in their native language [@friederici_phonotactic_1993].
+**Friederici and Wessels (1995)**
 
 9 month-old infants (but not younger infants) looked longer to trials in which legal syllables were presented, compared to illegal syllables.
 
 ## Word acquisition
 
-Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
-
-## Word acquisition
-
-Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
+::: box
+Infants acquire their first words aroud 6 months of age
+:::
 
 **Bergelson and Swingley (2012)**
 
-Auditory word recognition study using eye-tracking 
-
-![@bergelson_at_2012](img/bergelson-2.jpg).
-
-
 ## Word acquisition
-
-Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
 
 **Bergelson and Swingley (2012)**
 
-Auditory word recognition study using eye-tracking 
+Auditory word recognition study using **eye-tracking** 
 
+::: center
+![@bergelson_at_2012](img/bergelson-2.jpg){width="65%"}
+:::
+
+## Word acquisition
+
+**Bergelson and Swingley (2012)**
+
+Auditory word recognition study using **eye-tracking** 
+
+::: center
 ![](img/apple-mouth.png)
+:::
 
 ## Word acquisition
 
-Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
-
 **Bergelson and Swingley (2012)**
 
-Auditory word recognition study using eye-tracking 
+Auditory word recognition study using **eye-tracking** 
 
+::: center
 ![](img/cookie-eyes.png)
+:::
 
 ## Word acquisition
-
-Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
 
 **Bergelson and Swingley (2012)**
 
 Auditory word recognition study using eye-tracking 
 
-![](img/hair-banana.png.png)
+::: center
+![](img/hair-banana.png)
+:::
 
 ## Word acquisition
 
-Infants acquire their first words aroud 6 months of age [@bergelson_at_2012].
-
 **Bergelson and Swingley (2012)**
 
+::: center
 ![](img/bergelson.jpeg)
+:::
 
 # 12-24 months
 
-## Vocabulary spurt
+## Vocabulary growth
 
-From 12 months of age onwards, infants' vocabulary grows at a steady rate until 18 months of age. From 12 to 24 months, it grows much faster (*vocabulary spurt*). [@frank_wordbank:_2017; @goldfield_early_1990].
+From 12 months of age onwards, infants' vocabulary grows at a steady rate until 18 months of age. From 12 to 24 months, it grows much faster (*vocabulary spurt*) [@frank_wordbank:_2017; @goldfield_early_1990].
 
-![](img/vocabulary-1.png)
+## Vocabulary growth
 
-## Vocabulary spurt
+::: center
+![@garcia-castro_bilingual_2024](img/vocabulary-1.png)
+:::
 
-From 12 months of age onwards, infants' vocabulary grows at a steady rate until 18 months of age. From 12 to 24 months, it grows much faster (*vocabulary spurt*). [@frank_wordbank:_2017; @goldfield_early_1990].
+## Vocabulary growth
 
-![](img/vocabulary-2.png)
+::: center
+![@garcia-castro_bilingual_2024](img/vocabulary-2.png)
+:::
+
+## (Bilingual) vocabulary growth
+
+::: box
+When both languages are taken into account, bilingual todders know as many words as monolinguals.
+:::
+
+**Hoff et al. (2012)**
+
+## (Bilingual) vocabulary growth
+
+**Hoff et al. (2012)**
+
+**Vocabulary checklists** from English monolinguals and English-Spanish bilinguals in South Florida.
+
+::: {.columns}
+::: {.column}
+![](img/hoff-1.png)
+:::
+::: {.column}
+![](img/hoff-2.png)
+:::
+:::
+
 
 ## Lexical development
 
 ::: {.columns}
 ::: {.column}
-In the adult lexicon, words are stored as a network of phonological and semantic representations of nodes, interconnected by their conceptual or phonological relatedness [@collins]
+<br>
+<br>
 
+In the adult lexicon, words are stored as a **network**, interconnected by their **conceptual or phonological relatedness** [@collins1975spreading]
 :::
 ::: {.column}
-![](img/loftus.png)
+::: center
+![](img/loftus.png){width="60%"}
+:::
 :::
 :::
 
@@ -1151,11 +1511,15 @@ In the adult lexicon, words are stored as a network of phonological and semantic
 
 ::: {.columns}
 ::: {.column}
-In the adult lexicon, words are stored as a network of phonological and semantic representations of nodes, interconnected by their conceptual or phonological relatedness [@collins]
+<br>
+<br>
 
+In the adult lexicon, words are stored as a **network**, interconnected by their **conceptual or phonological relatedness** [@collins1975spreading]
 :::
 ::: {.column}
+::: center
 ![](img/luef.png)
+:::
 :::
 :::
 
@@ -1163,64 +1527,179 @@ In the adult lexicon, words are stored as a network of phonological and semantic
 
 **Lexical decision task**: Is the presented word a real word in English?
 
-* Raise your **left** hand if [yes]{style="background:green;"}
-* Raise your **right** hand if [yes]{style="background:red;"}
+* Raise your **left** hand if [yes]{style="background:green;color:white;"}
+* Raise your **right** hand if [no]{style="background:red;color:white;"}
 
 ---
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
 **PLANT**
+:::
 
 ---
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
 **MALDS**
+:::
 
 ---
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
 **TREE**
+:::
 
 ---
 
-*Wait for the second word!*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
+*Now you will see a sequence of two words, wait for the second word!*
+:::
 
 ---
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
 XXXXX
+:::
 
 ---
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
 **TABLE**
+:::
 
 ---
 
-NURSE
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
+**NURSE**
+:::
 
 ---
 
-DOCTOR
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
+**DOCTOR**
+:::
 
 ---
 
-XXXXX
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
+**XXXXX**
+:::
 
 ---
 
-BIRD
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
+**BIRD**
+:::
 
 ---
 
-CAT
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
+**CAT**
+:::
 
 ---
 
-PLANE
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: center
+**PLANE**
+:::
 
 ## Lexical development
 
-Responses are 
+<br>
+<br>
+<br>
+<br>
+
+Responses are faster and more accurate when **prime** and **target** words are **semantically related** (*NURSE-DOCTOR*) compared to when no prime is presented (*XXXX*) or when they are unrelated (*BIRD-CAT*).
 
 ## Lexical development
 
-Between 18 and 21s months, words start being represented in infants' mental lexicon in association with other phonologically and semantically related word. [@arias-trejo_lexicalsemantic_2009].
+::: box
+Between 18 and 21 months, words start being represented in infants' mental lexicon in association with other phonologically and semantically related word.
+:::
 
 **Arias-Trejo and Plunkett (2009)**
 
@@ -1228,59 +1707,80 @@ Semantic priming task, auditory word recognition.
 
 ---
 
+::: center
 ![](img/arias-1.png)
+:::
 
 ---
 
+::: center
 ![](img/arias-2.png)
+:::
 
 ---
 
+::: center
 ![](img/arias-3.png)
+:::
 
 ---
 
+::: center
 ![](img/arias-4.png)
+:::
 
 ---
 
+::: center
 ![](img/arias-5.png)
+:::
 
 ---
 
+::: center
 ![](img/arias-6.png)
+:::
 
 ---
 
+::: center
 ![](img/arias-7.png)
+:::
 
 ---
 
+::: center
 ![](img/arias-8.png)
+:::
+
+---
+
+::: center
+![](img/arias-9.png)
+:::
 
 ## Lexical development
-
-Between 18 and 21 months, words start being represented in infants' mental lexicon in association with other phonologically and semantically related word. [@arias-trejo_lexicalsemantic_2009].
 
 **Arias-Trejo and Plunkett (2009)**
 
-![](img/arias-10.png)
+::: center
+![](img/arias-10.png){width="70%"}
+:::
 
-# 24-36 months of age
+# Questions
 
-## Word learning heuristics
+## Recap
 
-## Mutual exclusivity
+::: incremental
+* Can you provide a reasonable definition of language?
+* Can you describe the main linguistic units?
+* What features of language are fetuses familarized with?
+* Can newborns discriminate between different languages at birth? If so, how?
+* Around what ages do we specialize in the phonology of our native language? Do bilinguals follow the same path as monolinguals?
+* When do we learn our first words?
+* Do we learn words at a linear rate across ages?
+* Does bilingualism slow down vocabulary growth?
+* Around what ages does the early lexicon start sharing its core features with the adult lexicon?
+:::
 
-# Bilingualism
-
-## Language discrimination
-
-## Phoneme discrimination
-
-## Word accquisition
-
-## Lexical development
-
-# Computational models of language acquisition
-
+## References

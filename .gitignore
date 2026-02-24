@@ -22,4 +22,4 @@ img/*.jpeg
 img/*.mp4
 img/*.gif
 .quarto_ipynb
-sounds/
+sounds/*.wav

@@ -11,9 +11,8 @@ author:
     email: gonzalo.garcia@sjd.es
 institute: Institut de Recerca Sant Joan de Déu (IRSJD)
 
-bibliography:
-  - references.bib
-  - upf-2026-neurocogdev.bib
+bibliography: bibliography.bib
+
 csl: apa.csl
 
 format: revealjs
@@ -22,7 +21,7 @@ css: style.css
 echo: false
 warning: false
 error: false
-freeze: false
+freeze: auto
 
 scrollable: true
 email-obfuscation: javascript
@@ -30,3 +29,6 @@ slide-number: true
 progress: true
 reference-location: block
 link-external-newwindow: true
+
+nocite: |
+  @arias-trejo_lexicalsemantic_2009, @saffran_statistical_1996, @friederici_phonotactic_1993, @werker_cross-language_1984, @decasper_prenatal_1986, @nazzi_language_1998, @bosch_evidence_2001, @bosch_simultaneous_2003, @hoff_dual_2012

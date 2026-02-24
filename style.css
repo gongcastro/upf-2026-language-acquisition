@@ -27,6 +27,10 @@ td, th, aside, figcaption, p.aside-footnotes {
     font-family: monospace;
 }
 
+aside > p {
+    font-size: 20px !important;
+}
+
 figcaption {
     justify-content: right !important;
     align-items: right !important;
